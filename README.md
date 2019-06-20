@@ -12,7 +12,7 @@
 
 
 
-**各大培训市场也不再培训Android，作为开发Android的我们该何去何从？**
+各大培训市场也不再培训Android，**作为开发Android的我们该何去何从？**
 
 
 
@@ -60,141 +60,100 @@
 > 腾讯面试集合
 
 - [热修复连环炮(热修复是什么  有接触过tinker吗，tinker原理是什么)](android/thread.md)
-
 - [增量升级为什么减少升级代价，增量升级原理](android/thread.md)
-
 - [谈谈线程池原理](android/thread.md)
-
 - [数据库版本如何单独升级](android/thread.md)
-
 - [如何设计一个多用户，多角色的App架构](android/thread.md)
-
 - [为什么线程中声明的变量是其他线程不可见的](android/thread.md)
-
 - [synchronize关键字在虚拟机执行原理](android/thread.md)
-
 - [ButterKnife为什么执行效率为什么比其他注入框架高？它的原理是什么](android/thread.md)
-
 - [Linux自带多种进程通信方式，为什么Android都没采用二偏偏使用Binder通信](android/thread.md)
-
 - [谈一谈Binder的原理和实现一次拷贝的流程](android/thread.md)
-
 - [组件化如何实现，组件化与插件化的差别在哪里，该怎么选型](android/thread.md)
-
 - [说下组件之间的跳转和组件通信原理机制](android/thread.md)
-
 - [类比于微信，如何对Apk进行极限压缩 ](android/thread.md)
-
 - [如何彻底防止反编译，dex加密怎么做 ](android/thread.md)
 
-  
+> 字节跳动面试集合
 
-  > 字节跳动面试集合
+[抖音-直播中 网速比较差的条件下，如何使画面保证流畅的效果](android/thread.md)
 
-  [抖音-直播中 网速比较差的条件下，如何使画面保证流畅的效果](android/thread.md)
+[抖音-谈下音视频同步原理，音频和视频能绝对同步吗](android/thread.md)
 
-  [抖音-谈下音视频同步原理，音频和视频能绝对同步吗](android/thread.md)
+[抖音-硬编码与软编码区别，如何选取硬编与软编](android/thread.md)
 
-  [抖音-硬编码与软编码区别，如何选取硬编与软编](android/thread.md)
+[抖音-抖音中时间特效与美颜特效怎么做的](android/thread.md)
 
-  [抖音-抖音中时间特效与美颜特效怎么做的](android/thread.md)
+[抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
 
-  [抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
+[抖音-如何在脸部区域增加特效，怎样才能使这个特效跟随脸部](android/thread.md)
 
-  [抖音-如何在脸部区域增加特效，怎样才能使这个特效跟随脸部](android/thread.md)
+[抖音-Opencv中定位人脸的五个点是如何做到的](android/thread.md)
 
-  [抖音-Opencv中定位人脸的五个点是如何做到的](android/thread.md)
+[今日头条-为什么RecyclerView加载首屏会慢一些](android/thread.md)
 
-  [今日头条-为什么RecyclerView加载首屏会慢一些](android/thread.md)
+[今日头条-说下RecyclerView回收池原理](android/thread.md)
 
-  [今日头条-说下RecyclerView回收池原理](android/thread.md)
+[今日头条-View绘制机制，onMeasure  onLayout ,onDraw方法的调用机制谈一下](android/thread.md)
 
-  [今日头条-View绘制机制，onMeasure  onLayout ,onDraw方法的调用机制谈一下](android/thread.md)
+[今日头条-为什么Android会出现卡顿](android/thread.md)
 
-  [今日头条-为什么Android会出现卡顿](android/thread.md)
+[今日头条-ThreadLocal底层原理和Handler的关系](android/thread.md)
 
-  [今日头条-ThreadLocal底层原理和Handler的关系](android/thread.md)
+[今日头条-Flutter为什么会做到一处写 处处运行 与RN的区别](android/thread.md)
 
-  [今日头条-Flutter为什么会做到一处写 处处运行 与RN的区别](android/thread.md)
+[今日头条-Flutter的图形引擎与Android的渲染引擎原理](android/thread.md)
 
-  [今日头条-Flutter的图形引擎与Android的渲染引擎原理](android/thread.md)
+[今日头条-sync关键字和lock的区别?  他们对线程的控制原理简单说下](android/thread.md)
 
-  [今日头条-sync关键字和lock的区别?  他们对线程的控制原理简单说下](android/thread.md)
 
-  
-
-  [谈谈线程池原理](android/thread.md)
-
-  [谈谈线程池原理](android/thread.md)
-
-  [谈谈线程池原理](android/thread.md)
-
-  [谈谈线程池原理](android/thread.md)
-
-  
 
 
 ### 架构相关面试
 
-[谈谈线程池原理](android/thread.md)
+[EventBus源码详解与架构分析，使用EventBus会造成什么弊端](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[AOP面向切面编程原理](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[说说饿了么Hermes跨进程架构原理](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[Message链表原理与重用机制是怎么实现](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[QQ是怎么做到皮肤换肤的，谈谈换肤原理](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[阿里巴巴ARouter原理执行流程，对组件化开发有什么好处](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[RePlugin插件化通过什么方式实现强兼容](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[谈谈对Rxjava的底层认识，如何做到线程切换的](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[APT实现手写Dagger注入式框架](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-
+[-----持续更新   未完待续-------](#)
 
 
 
 ### NDK相关面试
 
-  [谈谈线程池原理](android/thread.md)
+ [Java中有指针吗？说说 为什么C会需要指针](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[MakeFile编译一个so库的流程](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[CmakeList.txt中find_library语法是什么意思](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[谈谈阿里云andfix热修复原理](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[直播推流中，通过rtmp协议发送一个packet包的流程](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[直播中为什么需要将摄像头的NV21数据通过x264编码 再发送](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[怎么编译一个FFmpeg 并且集成到AndroidStudio中](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[webrtc是如何实现点对点通信的](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[谈下webrtc 内网穿透原理](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-
+[-----持续更新   未完待续-------](#)
 
 
 
@@ -202,75 +161,35 @@
 
 ### 算法相关面试
 
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-
+- [Hash值是如何生成](./basic/1-algo/2-hash.md)
+- [谈谈HashMap的原理](./basic/1-algo/2-hash.md)
+- [最小生成树算法](./basic/1-algo/3-mst.md)
+- [最短路径算法](./basic/1-algo/4-path.md)
+- [KMP算法](./basic/1-algo/5-kmp.md)
+- [查找算法](./basic/1-algo/6-search.md)
+- [排序算法](./basic/1-algo/7-sort.md)
+- [跳跃表](./basic/1-algo/9-skip_list.md)
+- [-----持续更新   未完待续-------](#)
 
 
 
 ### 高级UI相关面试
 
-[谈谈线程池原理](android/thread.md)
+[你知道Bat公司如何对屏幕适配的](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[谈谈对刘海屏开发与适配方案](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[Android9.0Api适配举例有哪些不一样的地方](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[讲讲你对UI绘制流程及其原理的](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[谈谈你对事件传递机制的认识](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[在自定义View中如何开启硬件加速](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
+[淘宝如何做到展示亿级商品（强排版，强交互实现机制）](android/thread.md)
 
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
-
-[谈谈线程池原理](android/thread.md)
+[-----持续更新   未完待续-------](#)
 
 
 
@@ -278,18 +197,24 @@
 
 > Opengl面试
 
-
+[-----持续更新   未完待续-------](#)
 
 
 
 > 智能家居串口面试
 
+[-----持续更新   未完待续-------](#)
+
 
 
 > 图形识别Opencv面试
 
-#### 若群已满，添加QQ群：4112676, 备注github
+[-----持续更新   未完待续-------](#)
 
-#### 关注公众号，获取Android2019年面试视频。发送"面试 "即可领取   另附企业内推，架构设计资料，相关视频资料
+
+
+#### 后续持续更新中，添加QQ群：4112676, 备注github
+
+##### 加微信号，获取Android 2019年面试视频。发送"面试 "即可领取   另附企业内推，架构设计资料，相关视频资料
 
 [![image](img/img.jpg)](https://github.com/0voice/interview_internal_reference/blob/master/arch.jpg)
