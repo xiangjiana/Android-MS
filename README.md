@@ -25,10 +25,10 @@
 ## --------------------------------预习专区----------------------------------
 
 - [Android预习专题](./android/README.md)
-  - [手把手带你深入分析 Handler](study/framework/Android消息机制.md)
-  - [Android 消息机制——你真的了解Handler？](./study/framework/Handler机制源码.md)
 
+  - [详细说说Binder通信原理与机制](android/binder.md)
 
+    
 
 ## ---------------------2019Android年高级面试---------------------- 
 
@@ -56,6 +56,9 @@
 * [接下来说说 Android 虚拟机Dalvik与ART区别在哪里？](android/artordalvik.md)
 * [有用过插件化吗？谈谈插件化原理？](android/plugin.md)
 * [进程保活如何做到，你们保活率有多高？](android/process.md)
+* [详细说说Binder通信原理与机制](android/binder.md)
+* [Handler的原理是什么?能深入分析下 Handler的实现机制吗？](./study/framework/Handler机制源码.md)
+* [ Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么](study/framework/Android消息机制.md)
 
 > 腾讯面试集合
 

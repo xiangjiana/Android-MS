@@ -28,12 +28,4 @@
 
 微信号
 
-[![image](E:/CSDN%E5%AD%A6%E9%99%A2/Github%E7%BB%84%E7%BB%87%E5%8F%B7/img/img.jpg)](
-
-|      |      |
-| ---- | ---- |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+[![image](../img/img.jpg)](
