@@ -45,7 +45,7 @@
 
 
 
-![img](https://github.com/interviewandroid/AndroidInterView/tree/master/tencent/img/4758234-7b0707c5a07f0bc1.png)
+![img](img/4758234-7b0707c5a07f0bc1.png)
 
 
 
@@ -82,7 +82,7 @@ apply plugin: 'com.tencent.tinker.patch'
 
 
 
-![img](https://github.com/interviewandroid/AndroidInterView/tree/master/tencent/img/4758234-70cc79184055aedb.png)
+![img](img/4758234-70cc79184055aedb.png)
 
 image
 
@@ -176,7 +176,7 @@ public static void installTinker(ApplicationLike appLike) {
 
 
 
-![img](https://github.com/interviewandroid/AndroidInterView/tree/master/tencent/img/4758234-ee5027bfe92f6515.png)
+![img](img/4758234-ee5027bfe92f6515.png)
 
 image
 
@@ -188,7 +188,7 @@ Tinker做了对应的DexDiff、ResDiff、BsDiff来产出一个patch.apk,里面�
 
 
 
-![img](https://github.com/interviewandroid/AndroidInterView/tree/master/tencent/img/4758234-9e2b054d0907c188.png)
+![img](img/4758234-9e2b054d0907c188.png)
 
 image
 
@@ -647,7 +647,7 @@ private static boolean extractDexDiffInternals(Context context, String dir, Stri
 
 
 
-![img](https://github.com/interviewandroid/AndroidInterView/tree/master/tencent/img/4758234-eba2d00b4718cf19.png)
+![img](img/4758234-eba2d00b4718cf19.png)
 
 image
 

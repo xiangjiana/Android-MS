@@ -46,7 +46,7 @@
 
 > 阿里巴巴面试集合
 
-* [谈谈线程池原理](android/thread.md)
+* [谈谈线程池原理](android/thread1.md)
 * [垃圾回收机制是如何实现的](android/traked.md)
 * [https原理你知道吗](android/https.md)
 * [Hadler是如何实现线程通信的](study/framework/Android消息机制.md)
