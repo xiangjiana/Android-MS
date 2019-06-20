@@ -176,7 +176,7 @@ final void runWorker(Worker w) {
 
 通常情况下，我们可以通过线程池的`submit`方法提交任务。被提交的任务可能会立即执行，也可能会被缓存或者被拒绝。任务的处理流程如下图所示：
 
-![img](https://ask.qcloudimg.com/http-save/yehe-1679307/qk4c5bbfs0.jpeg?imageView2/2/w/1620)
+![img](img/1.png)
 
 上面的流程图不是很复杂，下面再来看看流程图对应的代码，如下：
 
