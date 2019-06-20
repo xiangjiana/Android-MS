@@ -54,7 +54,7 @@
 * [给你一个Demo 你如何快速定位ANR](android/anr.md)
 * [说说你对Dalvik虚拟机的认识 ](android/dalvik.md)
 * [接下来说说 Android 虚拟机Dalvik与ART区别在哪里？](android/artordalvik.md)
-* [插件化原理？](android/plugin.md)
+* [有用过插件化吗？谈谈插件化原理？](android/plugin.md)
 
 
 ### 架构相关面试
