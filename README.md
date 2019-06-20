@@ -55,15 +55,20 @@
 * [说说你对Dalvik虚拟机的认识 ](android/dalvik.md)
 * [接下来说说 Android 虚拟机Dalvik与ART区别在哪里？](android/artordalvik.md)
 * [有用过插件化吗？谈谈插件化原理？](android/plugin.md)
+* [进程保活如何做到，你们保活率有多高？](android/process.md)
 
 
 ### 架构相关面试
 
 
 
+
+
 ### NDK相关面试
 
   
+
+
 
 
 
