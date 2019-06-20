@@ -33,7 +33,7 @@
 ## ---------------------2019Android年高级面试---------------------- 
 
  * [2019年Bat面试集合](#2019年Bat面试集合)
- * [架构相关面试](#java-核心)
+ * [架构相关面试](#架构相关面试)
  * [NDK相关面试](#NDK相关面试)
  * [算法相关面试](#算法相关面试)
  * [高级UI相关面试](#高级UI相关面试)
@@ -59,10 +59,9 @@
 
 > 腾讯面试集合
 
-- [热修复连环炮(热修复是什么  有接触过tinker吗，tinker原理是什么)](android/thread.md)
-- [增量升级为什么减少升级代价，增量升级原理](android/thread.md)
-- [谈谈线程池原理](android/thread.md)
-- [数据库版本如何单独升级](android/thread.md)
+- [热修复连环炮(热修复是什么  有接触过tinker吗，tinker原理是什么)](tencent/tinker.md)
+- [增量升级为什么减少升级代价，增量升级原理](tencent/update.md)
+- [数据库版本如何单独升级，并且将原有数据迁移过去](tencent/sqlite.md)
 - [如何设计一个多用户，多角色的App架构](android/thread.md)
 - [为什么线程中声明的变量是其他线程不可见的](android/thread.md)
 - [synchronize关键字在虚拟机执行原理](android/thread.md)

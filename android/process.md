@@ -242,7 +242,7 @@ image.png
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/4943911-b2528e0068d50c13.gif)
+![img](img/process-12.gif)
 
 
 
