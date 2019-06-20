@@ -47,6 +47,11 @@
 > 数据结构与算法问题的难度完全取决于你所申请的公司
 
 * [谈谈线程池原理](android/thread.md)
+* [垃圾回收机制是如何实现的](android/traked.md)
+* [https如何工作](android/https.md)
+* [谈谈线程池原理](android/thread.md)
+* [谈谈线程池原理](android/thread.md)
+* [谈谈线程池原理](android/thread.md)
 
 
 
@@ -416,4 +421,10 @@ Content Provider 是Android提供的第三方应用数据的访问方案。
  
 
   ```
-​    
+  
+
+#### 若群已满，添加QQ群：4112676, 备注github
+
+#### 关注公众号，获取Android2019年面试视频。发送"面试 "即可领取   另附企业内推，架构设计资料，相关视频资料
+
+[![image](img/img.jpg)](https://github.com/0voice/interview_internal_reference/blob/master/arch.jpg)
