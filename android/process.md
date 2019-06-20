@@ -21,9 +21,7 @@ Android一般的进程优先级划分：
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/4943911-9b1bf14b2e2d1ffc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/662/format/webp)
-
-image.png
+![img](img/process-1.jpg)
 
 - 红色部分是容易被回收的进程，属于android进程
 - 绿色部分是较难被回收的进程，属于android进程
@@ -36,15 +34,15 @@ image.png
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/4943911-b5c5ec106fd36aa6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/844/format/webp)
+![img](img/process-2.jpg)
 
-image.png
+
 
 然后分别查看app在前台，app退到后台，这2中场景主进程的oom_adj数值：
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/4943911-846976014eefb9e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/323/format/webp)
+![img](img/process-3.jpg)
 
 image.png
 
@@ -56,9 +54,7 @@ image.png
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/4943911-e10be71404906c95.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/301/format/webp)
-
-image.png
+![img](img/process-4.jpg)
 
 ok，知道了进程优先级的概念以及如何查看优先级，我们就可以对app进程优化，然后通过查看这个数值判断我们的优化是否有效果。
 
@@ -92,15 +88,13 @@ ok，知道了进程优先级的概念以及如何查看优先级，我们就可
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/4943911-6664a9f482f1af55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/852/format/webp)
+![img](img/process-5.jpg)
 
 image.png
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/4943911-ad01a9b87b95a4fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/297/format/webp)
-
-image.png
+![img](img/process-6.jpg)
 
 ###### 2.在大多数国产手机下，进入锁屏状态一段时间，省电机制会kill后台进程
 
@@ -110,7 +104,7 @@ image.png
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/4943911-9539358506a20acb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/569/format/webp)
+![img](img/process-7.jpg)
 
 image.png
 
@@ -120,7 +114,7 @@ image.png
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/4943911-e471727065c26ba0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/309/format/webp)
+![img](img/process-8.jpg)
 
 image.png
 
@@ -131,9 +125,9 @@ image.png
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/4943911-24f22d5bbf5dfa49.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/482/format/webp)
+![img](img/process-9.jpg)
 
-image.png
+
 
 因此这类场景唯一的处理办法就是加入 手机rom 白名单，比如你打开小米，魅族的权限管理 -> 自启动管理可以看到 QQ，微信，天猫默认被勾选，这就是厂商合作。那我们普通app可以这么做：在app的设置界面加一个选项，提示用户自己去勾选自启动，我封装了一个工具类给出国内各厂商的自启动的Intent跳转方法：
 
@@ -218,7 +212,7 @@ public class SettingUtils {
 
   
 
-  ![img](https:////upload-images.jianshu.io/upload_images/4943911-e666cb4d2faa444f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+  ![img](img/process-10.jpg)
 
   IMG_19700103_034546.jpg
 
@@ -226,7 +220,7 @@ public class SettingUtils {
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/4943911-7a17259f82db7228.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/365/format/webp)
+![img](img/process-11.jpg)
 
 image.png
 
@@ -248,9 +242,9 @@ image.png
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/4943911-b2528e0068d50c13.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/715/format/webp)
+![img](https:////upload-images.jianshu.io/upload_images/4943911-b2528e0068d50c13.gif)
 
-2.gif
+
 
 但它不是100%保证重启成功，比如下面2种情况：（本人经过测试，这里就不放效果图了）
 
