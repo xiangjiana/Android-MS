@@ -22,7 +22,7 @@
 
 
 
-## ---------------------预习专区-----------------------
+## --------------------------------预习专区----------------------------------
 
 - [Android预习专题](./android/README.md)
   - [手把手带你深入分析 Handler](study/framework/Android消息机制.md)
@@ -48,7 +48,7 @@
 
 * [谈谈线程池原理](android/thread.md)
 * [垃圾回收机制是如何实现的](android/traked.md)
-* [https如何工作](android/https.md)
+* [https原理你知道吗](android/https.md)
 * [Hadler是如何实现线程通信的](study/framework/Android消息机制.md)
 * [Glide对Bitmap的缓存与解码复用如何做到的](android/thread.md)
 * [给你一个Demo 你如何快速定位ANR](android/anr.md)
@@ -57,8 +57,106 @@
 * [有用过插件化吗？谈谈插件化原理？](android/plugin.md)
 * [进程保活如何做到，你们保活率有多高？](android/process.md)
 
+> 腾讯面试集合
+
+- [热修复连环炮(热修复是什么  有接触过tinker吗，tinker原理是什么)](android/thread.md)
+
+- [增量升级为什么减少升级代价，增量升级原理](android/thread.md)
+
+- [谈谈线程池原理](android/thread.md)
+
+- [数据库版本如何单独升级](android/thread.md)
+
+- [如何设计一个多用户，多角色的App架构](android/thread.md)
+
+- [为什么线程中声明的变量是其他线程不可见的](android/thread.md)
+
+- [synchronize关键字在虚拟机执行原理](android/thread.md)
+
+- [ButterKnife为什么执行效率为什么比其他注入框架高？它的原理是什么](android/thread.md)
+
+- [Linux自带多种进程通信方式，为什么Android都没采用二偏偏使用Binder通信](android/thread.md)
+
+- [谈一谈Binder的原理和实现一次拷贝的流程](android/thread.md)
+
+- [组件化如何实现，组件化与插件化的差别在哪里，该怎么选型](android/thread.md)
+
+- [说下组件之间的跳转和组件通信原理机制](android/thread.md)
+
+- [类比于微信，如何对Apk进行极限压缩 ](android/thread.md)
+
+- [如何彻底防止反编译，dex加密怎么做 ](android/thread.md)
+
+  
+
+  > 字节跳动面试集合
+
+  [抖音-直播中 网速比较差的条件下，如何使画面保证流畅的效果](android/thread.md)
+
+  [抖音-谈下音视频同步原理，音频和视频能绝对同步吗](android/thread.md)
+
+  [抖音-硬编码与软编码区别，如何选取硬编与软编](android/thread.md)
+
+  [抖音-抖音中时间特效与美颜特效怎么做的](android/thread.md)
+
+  [抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
+
+  [抖音-如何在脸部区域增加特效，怎样才能使这个特效跟随脸部](android/thread.md)
+
+  [抖音-Opencv中定位人脸的五个点是如何做到的](android/thread.md)
+
+  [今日头条-为什么RecyclerView加载首屏会慢一些](android/thread.md)
+
+  [今日头条-说下RecyclerView回收池原理](android/thread.md)
+
+  [今日头条-View绘制机制，onMeasure  onLayout ,onDraw方法的调用机制谈一下](android/thread.md)
+
+  [今日头条-为什么Android会出现卡顿](android/thread.md)
+
+  [今日头条-ThreadLocal底层原理和Handler的关系](android/thread.md)
+
+  [今日头条-Flutter为什么会做到一处写 处处运行 与RN的区别](android/thread.md)
+
+  [今日头条-Flutter的图形引擎与Android的渲染引擎原理](android/thread.md)
+
+  [今日头条-sync关键字和lock的区别?  他们对线程的控制原理简单说下](android/thread.md)
+
+  
+
+  [谈谈线程池原理](android/thread.md)
+
+  [谈谈线程池原理](android/thread.md)
+
+  [谈谈线程池原理](android/thread.md)
+
+  [谈谈线程池原理](android/thread.md)
+
+  
+
 
 ### 架构相关面试
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
 
 
 
@@ -66,7 +164,37 @@
 
 ### NDK相关面试
 
-  
+  [谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+
 
 
 
@@ -74,11 +202,75 @@
 
 ### 算法相关面试
 
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
 
 
 
 
 ### 高级UI相关面试
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
+
+[谈谈线程池原理](android/thread.md)
 
 
 
