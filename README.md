@@ -52,7 +52,9 @@
 * [Hadler是如何实现线程通信的](study/framework/Android消息机制.md)
 * [Glide对Bitmap的缓存与解码复用如何做到的](android/thread.md)
 * [给你一个Demo 你如何快速定位ANR](android/anr.md)
-* [你对Art虚拟机怎么看](study/java/art/ART虚拟机：ART虚拟机概述.md)
+* [说说你对Dalvik虚拟机的认识 ](android/dalvik.md)
+* [接下来说说 Android 虚拟机Dalvik与ART区别在哪里？](android/artordalvik.md)
+* [插件化原理？](android/plugin.md)
 
 
 ### 架构相关面试
