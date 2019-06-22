@@ -84,7 +84,7 @@
 
 - [抖音-谈下音视频同步原理，音频和视频能绝对同步吗](android/play_ffmpeg.md)
 
-- [抖音-硬编码与软编码区别，如何选取硬编与软编](android/mediacodec.md.md)
+- [抖音-硬编码与软编码区别，如何选取硬编与软编](android/mediacodec.md)
 
 - [抖音-抖音中时间特效与美颜特效怎么做的](android/thread.md)
 
