@@ -74,7 +74,7 @@
 - [组件化如何实现，组件化与插件化的差别在哪里，该怎么选型](android/commpont.md)
 - [说下组件之间的跳转和组件通信原理机制](android/commpontrounter.md)
 - [类比于微信，如何对Apk进行极限压缩,谈下Android压缩8大步 ](android/AndResGuard.md)
-- [如何彻底防止反编译，dex加密怎么做 ](android/thread.md)
+- [如何彻底防止反编译，dex加密怎么做 ](android/dex.md)
 
 > 字节跳动面试集合
 
