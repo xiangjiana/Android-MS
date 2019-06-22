@@ -1,5 +1,7 @@
 #### 阿里巴巴 给你一个Demo 你如何快速定位ANR
 
+本专栏专注分享大型Bat面试知识，后续会持续更新，喜欢的话麻烦点击一个star
+
 ##### 一、前期基础知识储备
 
 （1）**ANR错误定义**：在Android上，如果你的应用程序有一段时间响应不够灵敏，系统会向用户显示一个对话框，这个对话框称作“应用程序无响应”（ANR：Application Not Responding）对话框。用户可以选择“等待”而让程序继续运行，也可以选择“强制关闭”。因此，在程序里对响应性能的设计很重要，这样，系统不会显示ANR给用户。
@@ -69,7 +71,7 @@ protected void onPostExecute(Long result) {
           });
        }
      }).start();
-    
+
 **实现Runnable接口**
 
     class PrimeRun implements Runnable {

@@ -22,7 +22,7 @@
 
 
 
-## --------------------------------预习专区----------------------------------
+## 预习专区
 
 - [Android预习专题](./android/README.md)
 
@@ -30,7 +30,7 @@
 
     
 
-## ---------------------2019Android年高级面试---------------------- 
+## 2019Android年高级面试
 
  * [2019年Bat面试集合](#2019年Bat面试集合)
  * [架构相关面试](#架构相关面试)
@@ -78,35 +78,42 @@
 
 > 字节跳动面试集合
 
-[抖音-直播中 网速比较差的条件下，如何使画面保证流畅的效果](android/thread.md)
+- [之前有做过直播吗?你们是通过什么方式实现直播的?](android/live.md)
 
-[抖音-谈下音视频同步原理，音频和视频能绝对同步吗](android/thread.md)
+- [抖音-直播中 网速比较差的条件下，如何使画面保证流畅的效果](android/live-optimitor.md)
 
-[抖音-硬编码与软编码区别，如何选取硬编与软编](android/thread.md)
+- [抖音-谈下音视频同步原理，音频和视频能绝对同步吗](android/play_ffmpeg.md)
 
-[抖音-抖音中时间特效与美颜特效怎么做的](android/thread.md)
+- [抖音-硬编码与软编码区别，如何选取硬编与软编](android/mediacodec.md.md)
 
-[抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
+- [抖音-抖音中时间特效与美颜特效怎么做的](android/thread.md)
 
-[抖音-如何在脸部区域增加特效，怎样才能使这个特效跟随脸部](android/thread.md)
+- [抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
 
-[抖音-Opencv中定位人脸的五个点是如何做到的](android/thread.md)
+- [抖音-如何在脸部区域增加特效，怎样才能使这个特效跟随脸部](android/thread.md)
 
-[今日头条-为什么RecyclerView加载首屏会慢一些](android/thread.md)
+- [抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
 
-[今日头条-说下RecyclerView回收池原理](android/thread.md)
+- [抖音-Opencv中定位人脸的五个点是如何做到的](android/thread.md)
 
-[今日头条-View绘制机制，onMeasure  onLayout ,onDraw方法的调用机制谈一下](android/thread.md)
+- [今日头条-为什么RecyclerView加载首屏会慢一些](android/thread.md)
 
-[今日头条-为什么Android会出现卡顿](android/thread.md)
+- [今日头条-View绘制机制，onMeasure  onLayout ,onDraw方法的调用机制谈一下](android/thread.md)
 
-[今日头条-ThreadLocal底层原理和Handler的关系](android/thread.md)
+- [今日头条-为什么Android会出现卡顿](android/thread.md)
 
-[今日头条-Flutter为什么会做到一处写 处处运行 与RN的区别](android/thread.md)
+- [今日头条-ThreadLocal底层原理和Handler的关系](android/thread.md)
 
-[今日头条-Flutter的图形引擎与Android的渲染引擎原理](android/thread.md)
+- [今日头条-Flutter为什么会做到一处写 处处运行 与RN的区别](android/thread.md)
 
-[今日头条-sync关键字和lock的区别?  他们对线程的控制原理简单说下](android/thread.md)
+- [今日头条-Flutter的图形引擎与Android的渲染引擎原理](android/thread.md)
+
+- [今日头条-sync关键字和lock的区别?  他们对线程的控制原理简单说下](android/thread.md)
+
+  
+
+
+
 
 
 
