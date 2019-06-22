@@ -70,10 +70,10 @@
 - [synchronize关键字在虚拟机执行原理是什么，能谈一谈什么是内存可见性，锁升级吗](android/synchronize.md)
 - [ButterKnife为什么执行效率为什么比其他注入框架高？它的原理是什么](android/butterknife.md)
 - [Linux自带多种进程通信方式，为什么Android都没采用二偏偏使用Binder通信](android/binder1.md)
-- [谈一谈Binder的原理和实现一次拷贝的流程](android/thread.md)
+- [谈一谈Binder的原理和实现一次拷贝的流程](android/binder2.md)
 - [组件化如何实现，组件化与插件化的差别在哪里，该怎么选型](android/commpont.md)
-- [说下组件之间的跳转和组件通信原理机制](android/thread.md)
-- [类比于微信，如何对Apk进行极限压缩 ](android/thread.md)
+- [说下组件之间的跳转和组件通信原理机制](android/commpontrounter.md)
+- [类比于微信，如何对Apk进行极限压缩,谈下Android压缩8大步 ](android/AndResGuard.md)
 - [如何彻底防止反编译，dex加密怎么做 ](android/thread.md)
 
 > 字节跳动面试集合
