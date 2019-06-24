@@ -26,7 +26,7 @@
 
 - [Android预习专题](./android/README.md)
 
-  - [详细说说Binder通信原理与机制](android/binder.md)
+  - [AMS在Android起到什么作用，简单的分析下Android的源码](android/ams.md)
 
     
 
