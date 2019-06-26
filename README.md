@@ -26,7 +26,7 @@
 
 - [Android预习专题](./android/README.md)
 
-  - [AMS在Android起到什么作用，简单的分析下Android的源码](android/ams.md)
+  - [讲讲 PackageManagerService运行流程详解](android/pms.md)
 
     
 
@@ -59,6 +59,8 @@
 * [详细说说Binder通信原理与机制](android/binder.md)
 * [Handler的原理是什么?能深入分析下 Handler的实现机制吗？](./study/framework/Handler机制源码.md)
 * [ Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么](study/framework/Android消息机制.md)
+* [ AMS在Android的作用是什么，Activtiy启动跟AMS有什么关系](android/ams.md)
+* [ PMS之前了解过吗?你对PMS怎么看的，能聊聊PMS的详细实现流程吗](android/pms.md)
 
 > 腾讯面试集合
 
