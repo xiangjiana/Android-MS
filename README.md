@@ -26,7 +26,7 @@
 
 - [Android预习专题](./android/README.md)
 
-  - [讲讲 PackageManagerService运行流程详解](android/pms.md)
+  - [你知道什么是AOP吗？AOP与OOP有什么区别，谈谈AOP的原理是什么](android/aop.md)
 
     
 
