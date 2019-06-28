@@ -98,7 +98,7 @@ Activity的启动就介绍到这里。这一路分析下来，相信读者也和
 
 ### 3. 广播处理总结
 
-[![img](http://img.blog.csdn.net/20150803123419737?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)](http://img.blog.csdn.net/20150803123419737?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+[![img](img/20150803123419737.png)](http://img.blog.csdn.net/20150803123419737?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 ### 4. startService流程图
 

@@ -223,10 +223,10 @@
 
 [-----持续更新   未完待续-------](#)
 
-
+[摘自GitHub干货集合](https://github.com/interviewandroid/AndroidInterView)
 
 #### 后续持续更新中，添加QQ群：4112676, 备注github
 
 ##### 加微信号，获取Android 2019年面试视频。发送"面试 "即可领取   另附企业内推，架构设计资料，相关视频资料
 
-[![image](img/img.jpg)](https://github.com/0voice/interview_internal_reference/blob/master/arch.jpg)
+[![image](img/img.jpg)
