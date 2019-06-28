@@ -77,6 +77,7 @@
 - [说下组件之间的跳转和组件通信原理机制](android/commpontrounter.md)
 - [类比于微信，如何对Apk进行极限压缩,谈下Android压缩8大步 ](android/AndResGuard.md)
 - [如何彻底防止反编译，dex加密怎么做 ](android/dex.md)
+- [你知道什么是AOP吗？AOP与OOP有什么区别，谈谈AOP的原理](android/aop.md)
 
 > 字节跳动面试集合
 
@@ -223,7 +224,7 @@
 
 [-----持续更新   未完待续-------](#)
 
-[摘自GitHub干货集合](https://github.com/interviewandroid/AndroidInterView)
+[GitHub干货集合](https://github.com/interviewandroid/AndroidInterView)
 
 #### 后续持续更新中，添加QQ群：4112676, 备注github
 
