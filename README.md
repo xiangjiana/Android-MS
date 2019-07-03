@@ -88,9 +88,9 @@
 
 - [抖音-谈下音视频同步原理，音频和视频能绝对同步吗](android/play_ffmpeg.md)
 
-- [抖音-硬编码与软编码区别，如何选取硬编与软编](android/mediacodec.md)
+- [抖音-硬编码与软编码区别，录屏时如何选取硬编与软编](android/mediacodec.md)
 
-- [抖音-抖音中时间特效与美颜特效怎么做的](android/thread.md)
+- [抖音-有做过直播特效吗? 说说直播特效的实现原理与难点](android/live_meiyan.md)
 
 - [抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
 
@@ -124,7 +124,7 @@
 
 ### 架构相关面试
 
-[EventBus源码详解与架构分析，使用EventBus会造成什么弊端](android/thread.md)
+[为什么会用到EventBus,EventBus的源码详解与架构分析，使用EventBus会造成什么弊端](android/eventbus.md)
 
 [AOP面向切面编程原理](android/thread.md)
 
