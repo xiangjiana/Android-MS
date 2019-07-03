@@ -26,7 +26,7 @@
 
 - [Android预习专题](./android/README.md)
 
-  - [你知道什么是AOP吗？AOP与OOP有什么区别，谈谈AOP的原理是什么](android/aop.md)
+  - [序列化与反序列化的原理，Android的Parcelable与Serializable区别是什么](android/herms.md)
 
     
 
@@ -78,6 +78,7 @@
 - [类比于微信，如何对Apk进行极限压缩,谈下Android压缩8大步 ](android/AndResGuard.md)
 - [如何彻底防止反编译，dex加密怎么做 ](android/dex.md)
 - [你知道什么是AOP吗？AOP与OOP有什么区别，谈谈AOP的原理](android/aop.md)
+- [序列化与反序列化的原理，Android的Parcelable与Serializable区别是什么](android/herms.md)
 
 > 字节跳动面试集合
 
