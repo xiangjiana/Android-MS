@@ -176,3 +176,9 @@ in.readString();
    3.Parcelable不能使用在将对象存储在磁盘上这种情况，因为在外界的变化下Parcelable不能很好的保证数据的持续性。
 
  
+
+#### 四 可跨进程的Hermes源码可参考
+
+[hermes架构的Github地址](https://github.com/Xiaofei-it/Hermes)
+
+[可跨进程的EventBus 的Github地址](https://github.com/Xiaofei-it/HermesEventBus)
