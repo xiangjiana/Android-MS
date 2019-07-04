@@ -26,7 +26,7 @@
 
 - [Android预习专题](./android/README.md)
 
-  - [序列化与反序列化的原理，Android的Parcelable与Serializable区别是什么](android/herms.md)
+  - [网易云--手机QQ的换肤是怎么做到的，你对换肤有了解吗？看过换肤的原理没？](android/load.md)
 
     
 
@@ -79,6 +79,7 @@
 - [如何彻底防止反编译，dex加密怎么做 ](android/dex.md)
 - [你知道什么是AOP吗？AOP与OOP有什么区别，谈谈AOP的原理](android/aop.md)
 - [序列化与反序列化的原理，Android的Parcelable与Serializable区别是什么](android/herms.md)
+- [网易云--手机QQ的换肤是怎么做到的，你对换肤有了解吗？看过换肤的原理没？](android/load.md)
 
 > 字节跳动面试集合
 
