@@ -85,6 +85,8 @@
 
 - [之前有做过直播吗?你们是通过什么方式实现直播的?](android/live.md)
 
+- [对于Tersorflow你怎么理解的，有做过人工智能的应用吗](android/tersorflow.md)
+
 - [抖音-直播中 网速比较差的条件下，如何使画面保证流畅的效果](android/live-optimitor.md)
 
 - [抖音-谈下音视频同步原理，音频和视频能绝对同步吗](android/play_ffmpeg.md)
