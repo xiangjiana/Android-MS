@@ -26,7 +26,7 @@
 
 - [Android预习专题](./android/README.md)
 
-  - [你曾经有没有对SqliteDatabase做过封装，你自己有设计过数据库框架吗?或者只是停留在使用ormlite  greenDao这类框架](android/sqlite.md)
+  - [有没有使用过组件化，组件化通信如何做到的，ARouter有用过吗](android/router.md)
 
     
 
@@ -81,6 +81,7 @@
 - [序列化与反序列化的原理，Android的Parcelable与Serializable区别是什么](android/herms.md)
 - [网易云--手机QQ的换肤是怎么做到的，你对换肤有了解吗？看过换肤的原理没？](android/load.md)
 - [你曾经有没有对SqliteDatabase做过封装，你自己有设计过数据库框架吗?或者只是停留在使用ormlite  greenDao这类框架](android/sqlite.md)
+- [有没有使用过组件化，组件化通信如何做到的，ARouter有用过吗](android/router.md)
 
 > 字节跳动面试集合
 
