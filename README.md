@@ -44,44 +44,79 @@
 
 ### 2019年Bat面试集合
 
-> 阿里巴巴面试集合
-
-* [谈谈线程池原理](android/thread1.md)
-* [垃圾回收机制是如何实现的](android/traked.md)
-* [https原理你知道吗](android/https.md)
-* [Hadler是如何实现线程通信的](study/framework/Android消息机制.md)
-* [Glide对Bitmap的缓存与解码复用如何做到的](android/thread.md)
-* [给你一个Demo 你如何快速定位ANR](android/anr.md)
-* [说说你对Dalvik虚拟机的认识 ](android/dalvik.md)
-* [接下来说说 Android 虚拟机Dalvik与ART区别在哪里？](android/artordalvik.md)
-* [有用过插件化吗？谈谈插件化原理？](android/plugin.md)
-* [进程保活如何做到，你们保活率有多高？](android/process.md)
-* [详细说说Binder通信原理与机制](android/binder.md)
-* [Handler的原理是什么?能深入分析下 Handler的实现机制吗？](./study/framework/Handler机制源码.md)
-* [ Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么](study/framework/Android消息机制.md)
-* [ AMS在Android的作用是什么，Activtiy启动跟AMS有什么关系](android/ams.md)
-* [ PMS之前了解过吗?你对PMS怎么看的，能聊聊PMS的详细实现流程吗](android/pms.md)
-
 > 腾讯面试集合
 
-- [热修复连环炮(热修复是什么  有接触过tinker吗，tinker原理是什么)](tencent/tinker.md)
-- [增量升级为什么减少升级代价，增量升级原理](tencent/update.md)
-- [数据库版本如何单独升级，并且将原有数据迁移过去](tencent/sqlite.md)
-- [如何设计一个多用户，多角色的App架构](android/thread.md)
-- [谈谈volatile关键字与synchronized关键字在内存的区别](android/volatile.md)
-- [synchronize关键字在虚拟机执行原理是什么，能谈一谈什么是内存可见性，锁升级吗](android/synchronize.md)
-- [ButterKnife为什么执行效率为什么比其他注入框架高？它的原理是什么](android/butterknife.md)
+- [详细说说Binder通信原理与机制](android/binder.md)
+
 - [Linux自带多种进程通信方式，为什么Android都没采用二偏偏使用Binder通信](android/binder1.md)
+
 - [谈一谈Binder的原理和实现一次拷贝的流程](android/binder2.md)
+
+- [进程保活如何做到，你们保活率有多高？](android/process.md)
+
+- [ButterKnife为什么执行效率为什么比其他注入框架高？它的原理是什么](android/butterknife.md)
+
 - [组件化如何实现，组件化与插件化的差别在哪里，该怎么选型](android/commpont.md)
+
 - [说下组件之间的跳转和组件通信原理机制](android/commpontrounter.md)
-- [类比于微信，如何对Apk进行极限压缩,谈下Android压缩8大步 ](android/AndResGuard.md)
-- [如何彻底防止反编译，dex加密怎么做 ](android/dex.md)
-- [你知道什么是AOP吗？AOP与OOP有什么区别，谈谈AOP的原理](android/aop.md)
-- [序列化与反序列化的原理，Android的Parcelable与Serializable区别是什么](android/herms.md)
-- [网易云--手机QQ的换肤是怎么做到的，你对换肤有了解吗？看过换肤的原理没？](android/load.md)
-- [你曾经有没有对SqliteDatabase做过封装，你自己有设计过数据库框架吗?或者只是停留在使用ormlite  greenDao这类框架](android/sqlite.md)
+
 - [有没有使用过组件化，组件化通信如何做到的，ARouter有用过吗](android/router.md)
+
+- [有用过插件化吗？谈谈插件化原理？](android/plugin.md)
+
+- [热修复连环炮(热修复是什么  有接触过tinker吗，tinker原理是什么)](tencent/tinker.md)
+
+- [增量升级为什么减少升级代价，增量升级原理](tencent/update.md)
+
+- [ PMS之前了解过吗?你对PMS怎么看的，能聊聊PMS的详细实现流程吗](android/pms.md)
+
+- [ AMS在Android的作用是什么，Activtiy启动跟AMS有什么关系](android/ams.md)
+
+- [你知道什么是AOP吗？AOP与OOP有什么区别，谈谈AOP的原理](android/aop.md)
+
+- [网易云--手机QQ的换肤是怎么做到的，你对换肤有了解吗？看过换肤的原理没？](android/load.md)
+
+- [垃圾回收机制是如何实现的](android/traked.md)
+
+- [数据库版本如何单独升级，并且将原有数据迁移过去](tencent/sqlite.md)
+
+- [如何设计一个多用户，多角色的App架构](android/thread.md)
+
+- [谈谈volatile关键字与synchronized关键字在内存的区别](android/volatile.md)
+
+- [synchronize关键字在虚拟机执行原理是什么，能谈一谈什么是内存可见性，锁升级吗](android/synchronize.md)
+
+- [类比于微信，如何对Apk进行极限压缩,谈下Android压缩8大步 ](android/AndResGuard.md)
+
+- [如何彻底防止反编译，dex加密怎么做 ](android/dex.md)
+
+- [序列化与反序列化的原理，Android的Parcelable与Serializable区别是什么](android/herms.md)
+
+- [你曾经有没有对SqliteDatabase做过封装，你自己有设计过数据库框架吗?或者只是停留在使用ormlite  greenDao这类框架](android/sqlite.md)
+
+  
+
+> 阿里巴巴面试集合
+
+- [谈谈线程池原理](android/thread1.md)
+
+- [https原理你知道吗](android/https.md)
+
+- [Hadler是如何实现线程通信的](study/framework/Android消息机制.md)
+
+- [Glide对Bitmap的缓存与解码复用如何做到的](android/thread.md)
+
+- [给你一个Demo 你如何快速定位ANR](android/anr.md)
+
+- [说说你对Dalvik虚拟机的认识 ](android/dalvik.md)
+
+- [接下来说说 Android 虚拟机Dalvik与ART区别在哪里？](android/artordalvik.md)
+
+- [Handler的原理是什么?能深入分析下 Handler的实现机制吗？](./study/framework/Handler机制源码.md)
+
+- [ Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么](study/framework/Android消息机制.md)
+
+  
 
 > 字节跳动面试集合
 
@@ -120,12 +155,6 @@
 - [今日头条-sync关键字和lock的区别?  他们对线程的控制原理简单说下](android/thread.md)
 
   
-
-
-
-
-
-
 
 ### 架构相关面试
 
