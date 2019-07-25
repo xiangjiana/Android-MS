@@ -16,11 +16,13 @@
 
 
 
+5G ——Android    ----》
+
+
+
 ​        其实如果你技术深度足够，大必不用为就业而忧愁。每个行业何尝不是这样，最开始的风口，到慢慢的成熟。Android初级在2019年的日子里风光不再， 靠会四大组件就能够获取到满意薪资的时代一去不复返。**经过一波一波的淘汰与洗牌，剩下的都是技术的金子。就像大浪褪去，裸泳的会慢慢上岸。**而真正坚持下来的一定会取得不错成绩。毕竟Android市场是如此之大。从Android高级的蓬勃的就业岗位需求来看，能坚信我们每一位Android开发者的梦想 。
 
  接下来我们针对Android高级展开的完整面试题 
-
-
 
 ## 预习专区
 
@@ -41,8 +43,47 @@
  * [专业领域相关面试](#专业领域相关面试)
  * [其他](#其他)
 
-
 ### 2019年Bat面试集合
+
+
+
+> 阿里巴巴面试集合
+
+- [Android P禁止了http对你们有影响吗？https原理你知道吗？](android/https.md)
+
+- [什么是对称加密，什么是非对称加密，公钥与私钥属于对称加密吗](android/cert.md)
+
+- [https请求会不会存在被拦截的可能？你对这方面有过研究吗](android/cert.md)
+
+- [之前有做过直播吗?你们是通过什么方式实现直播的? 直播互动是如何做的](android/live.md)
+
+- [腾讯课堂-直播中 网速比较差的条件下，如何使画面保证流畅的效果](android/live-optimitor.md)
+
+- [腾讯课堂-硬编码与软编码区别，录屏时如何选取硬编与软编](android/mediacodec.md)
+
+- [Flutter为什么会做到一处写 处处运行 与RN的区别](android/thread.md)
+
+- [Flutter的图形引擎与Android的渲染引擎原理](android/thread.md)
+
+- [对于Tersorflow你怎么理解的，有做过人工智能的应用吗](android/tersorflow.md)
+
+- [为什么Android会出现卡顿](android/thread.md)
+
+- [给你一个Demo 你如何快速定位ANR](android/anr.md)
+
+- [Hadler是如何实现线程通信的](study/framework/Android消息机制.md)
+
+- [Glide对Bitmap的缓存与解码复用如何做到的](android/thread.md)
+
+- [说说你对Dalvik虚拟机的认识 ](android/dalvik.md)
+
+- [接下来说说 Android 虚拟机Dalvik与ART区别在哪里？](android/artordalvik.md)
+
+- [Handler的原理是什么?能深入分析下 Handler的实现机制吗？](./study/framework/Handler机制源码.md)
+
+- [ Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么](study/framework/Android消息机制.md)
+
+  
 
 > 腾讯面试集合
 
@@ -96,39 +137,13 @@
 
   
 
-> 阿里巴巴面试集合
 
-- [谈谈线程池原理](android/thread1.md)
-
-- [https原理你知道吗](android/https.md)
-
-- [Hadler是如何实现线程通信的](study/framework/Android消息机制.md)
-
-- [Glide对Bitmap的缓存与解码复用如何做到的](android/thread.md)
-
-- [给你一个Demo 你如何快速定位ANR](android/anr.md)
-
-- [说说你对Dalvik虚拟机的认识 ](android/dalvik.md)
-
-- [接下来说说 Android 虚拟机Dalvik与ART区别在哪里？](android/artordalvik.md)
-
-- [Handler的原理是什么?能深入分析下 Handler的实现机制吗？](./study/framework/Handler机制源码.md)
-
-- [ Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么](study/framework/Android消息机制.md)
-
-  
 
 > 字节跳动面试集合
 
-- [之前有做过直播吗?你们是通过什么方式实现直播的?](android/live.md)
-
-- [对于Tersorflow你怎么理解的，有做过人工智能的应用吗](android/tersorflow.md)
-
-- [抖音-直播中 网速比较差的条件下，如何使画面保证流畅的效果](android/live-optimitor.md)
+- [谈谈线程池原理](android/thread1.md)
 
 - [抖音-谈下音视频同步原理，音频和视频能绝对同步吗](android/play_ffmpeg.md)
-
-- [抖音-硬编码与软编码区别，录屏时如何选取硬编与软编](android/mediacodec.md)
 
 - [抖音-有做过直播特效吗? 说说直播特效的实现原理与难点](android/live_meiyan.md)
 
@@ -144,13 +159,7 @@
 
 - [今日头条-View绘制机制，onMeasure  onLayout ,onDraw方法的调用机制谈一下](android/thread.md)
 
-- [今日头条-为什么Android会出现卡顿](android/thread.md)
-
 - [今日头条-ThreadLocal底层原理和Handler的关系](android/thread.md)
-
-- [今日头条-Flutter为什么会做到一处写 处处运行 与RN的区别](android/thread.md)
-
-- [今日头条-Flutter的图形引擎与Android的渲染引擎原理](android/thread.md)
 
 - [今日头条-sync关键字和lock的区别?  他们对线程的控制原理简单说下](android/thread.md)
 
