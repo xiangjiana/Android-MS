@@ -20,7 +20,7 @@
 
 - [Android预习专题](./android/README.md)
 
-  - [插桩式插件化原理是什么  你是如何理解的](android/plugin2.md)
+  - [系统如何加载一个dex文件，他的底层原理是怎么实现的](android/dexclassloader.md)
 
     
 
