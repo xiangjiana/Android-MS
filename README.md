@@ -16,13 +16,23 @@
 
  接下来我们针对Android高级展开的完整面试题 
 
-## 预习专区
+### 今晚5G音视频专场，掌握音视频编解码，直播，会议，视频码流，低延时，低功耗核心技术
 
-- [Android预习专题](./android/README.md)
 
-  - [系统如何加载一个dex文件，他的底层原理是怎么实现的](android/dexclassloader.md)
 
-    
+[音视频是什么，视频为什么需要压缩](android/videowhy.md)
+
+[视频压缩压缩的是什么信息? 帧内压缩与帧间压缩原理](android/videoencode.md)
+
+[之前有做过直播吗?你们是通过什么方式实现直播的? 直播互动是如何做的](android/live.md)
+
+[腾讯课堂-直播中 网速比较差的条件下，低延时怎么实现](android/live-optimitor.md)
+
+[腾讯课堂-硬编码与软编码区别，录屏时如何选取硬编与软编](android/mediacodec.md)
+
+[微信---音视频通话如何实现，视频会议原理](android/mediacodec.md)
+
+[小米--万物互联实现原理](android/net.md)
 
 ## 2019Android年高级面试
 
