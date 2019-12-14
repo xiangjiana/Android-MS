@@ -3,6 +3,9 @@
 # Android 高级面试
 
 ### ![面试](img/面试.png)写给Android的一封信
+### 对于身边正在面试和面试中的人，加上我以往的面试经历整理了如下面试备考路线，和PDF版（有相应的视频教程在后面）
+[MS](img/MS.png)
+[PDF](img/PDF.png)
 
 最近半年，常常有人问我 “Android就业市场究竟怎么样，我还能不能坚持下去 ?”
 
@@ -142,8 +145,44 @@
 - [你曾经有没有对SqliteDatabase做过封装，你自己有设计过数据库框架吗?或者只是停留在使用ormlite  greenDao这类框架](android/sqlite.md)
 
   
+### 视频区域
+- [BAT面试必备——HashMap原理与性能优化](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [apk全方位健身 打造完美身材](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [MVP+Jetpack架构方案](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [自定义今日头条炫酷ViewPager指示器](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [UI优化——纵享丝滑ViewPager](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [海量用户App怎样保障网络连接的安全可靠？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [一小时学会自定义ViewGroup](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [自定义QQ音乐歌词渐变效果](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [无人机与地图导航类APP核心算法分享](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [5G时代使用Webview的正确姿势](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [架构师核心技术，请求型框架通用设计方案](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [人工智能技术实战，移动端NDK开发So easy](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [找工作必问的《设计模式》为什么那么重要？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [一节课学会在项目中使用IoC框架 让你的代码更清爽](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [MVVM架构核心技术databinding](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [自定义今日头条炫酷ViewPager指示器](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [高薪必备技术 插件化实现的核心原理](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [AI落地实战—移动平台身份证识别](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [通过一个网络请求完美封装一个网络模块](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 > 字节跳动面试集合
 
@@ -153,21 +192,21 @@
 
 - [抖音-有做过直播特效吗? 说说直播特效的实现原理与难点](android/live_meiyan.md)
 
-- [抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
+- [抖音-Include、Merge、ViewStub的作用和原理](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-- [抖音-如何在脸部区域增加特效，怎样才能使这个特效跟随脸部](android/thread.md)
+- [抖音-如何在脸部区域增加特效，怎样才能使这个特效跟随脸部](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-- [抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
+- [抖音-Include、Merge、ViewStub的作用和原理](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-- [抖音-Opencv中定位人脸的五个点是如何做到的](android/thread.md)
+- [抖音-Opencv中定位人脸的五个点是如何做到的](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-- [今日头条-为什么RecyclerView加载首屏会慢一些](android/thread.md)
+- [今日头条-为什么RecyclerView加载首屏会慢一些](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-- [今日头条-View绘制机制，onMeasure  onLayout ,onDraw方法的调用机制谈一下](android/thread.md)
+- [今日头条-View绘制机制，onMeasure  onLayout ,onDraw方法的调用机制谈一下](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-- [今日头条-ThreadLocal底层原理和Handler的关系](android/thread.md)
+- [今日头条-ThreadLocal底层原理和Handler的关系](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-- [今日头条-sync关键字和lock的区别?  他们对线程的控制原理简单说下](android/thread.md)
+- [今日头条-sync关键字和lock的区别?  他们对线程的控制原理简单说下](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
   
 
@@ -175,21 +214,21 @@
 
 [为什么会用到EventBus,EventBus的源码详解与架构分析，使用EventBus会造成什么弊端](android/eventbus.md)
 
-[AOP面向切面编程原理](android/thread.md)
+[AOP面向切面编程原理](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[说说饿了么Hermes跨进程架构原理](android/thread.md)
+[说说饿了么Hermes跨进程架构原理](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[Message链表原理与重用机制是怎么实现](android/thread.md)
+[Message链表原理与重用机制是怎么实现](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[QQ是怎么做到皮肤换肤的，谈谈换肤原理](android/thread.md)
+[QQ是怎么做到皮肤换肤的，谈谈换肤原理](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[阿里巴巴ARouter原理执行流程，对组件化开发有什么好处](android/thread.md)
+[阿里巴巴ARouter原理执行流程，对组件化开发有什么好处](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[RePlugin插件化通过什么方式实现强兼容](android/thread.md)
+[RePlugin插件化通过什么方式实现强兼容](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[谈谈对Rxjava的底层认识，如何做到线程切换的](android/thread.md)
+[谈谈对Rxjava的底层认识，如何做到线程切换的](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[APT实现手写Dagger注入式框架](android/thread.md)
+[APT实现手写Dagger注入式框架](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
 [-----持续更新   未完待续-------](#)
 
@@ -197,23 +236,23 @@
 
 ### NDK相关面试
 
- [Java中有指针吗？说说 为什么C会需要指针](android/thread.md)
+ [Java中有指针吗？说说 为什么C会需要指针](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[MakeFile编译一个so库的流程](android/thread.md)
+[MakeFile编译一个so库的流程](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[CmakeList.txt中find_library语法是什么意思](android/thread.md)
+[CmakeList.txt中find_library语法是什么意思](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[谈谈阿里云andfix热修复原理](android/thread.md)
+[谈谈阿里云andfix热修复原理](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[直播推流中，通过rtmp协议发送一个packet包的流程](android/thread.md)
+[直播推流中，通过rtmp协议发送一个packet包的流程](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[直播中为什么需要将摄像头的NV21数据通过x264编码 再发送](android/thread.md)
+[直播中为什么需要将摄像头的NV21数据通过x264编码 再发送](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[怎么编译一个FFmpeg 并且集成到AndroidStudio中](android/thread.md)
+[怎么编译一个FFmpeg 并且集成到AndroidStudio中](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[webrtc是如何实现点对点通信的](android/thread.md)
+[webrtc是如何实现点对点通信的](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[谈下webrtc 内网穿透原理](android/thread.md)
+[谈下webrtc 内网穿透原理](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
 [-----持续更新   未完待续-------](#)
 
@@ -238,19 +277,19 @@
 
 ### 高级UI相关面试
 
-[你知道Bat公司如何对屏幕适配的](android/thread.md)
+[你知道Bat公司如何对屏幕适配的](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[谈谈对刘海屏开发与适配方案](android/thread.md)
+[谈谈对刘海屏开发与适配方案](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[Android9.0Api适配举例有哪些不一样的地方](android/thread.md)
+[Android9.0Api适配举例有哪些不一样的地方](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[讲讲你对UI绘制流程及其原理的](android/thread.md)
+[讲讲你对UI绘制流程及其原理的](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[谈谈你对事件传递机制的认识](android/thread.md)
+[谈谈你对事件传递机制的认识](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[在自定义View中如何开启硬件加速](android/thread.md)
+[在自定义View中如何开启硬件加速](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-[淘宝如何做到展示亿级商品（强排版，强交互实现机制）](android/thread.md)
+[淘宝如何做到展示亿级商品（强排版，强交互实现机制）](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
 [-----持续更新   未完待续-------](#)
 
@@ -274,10 +313,10 @@
 
 [-----持续更新   未完待续-------](#)
 
-[GitHub干货集合](https://github.com/interviewandroid/AndroidInterView)
+[GitHub干货集合](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-#### 后续持续更新中，添加QQ群：4112676, 备注github
+#### 后续持续更新中，添加QQ技术交流群：892872246, 备注github  VX：mm14525201314
 
 ##### 加微信号，获取Android 2019年面试视频。发送"面试 "即可领取   另附企业内推，架构设计资料，相关视频资料
 
-[![image](img/img.jpg)
+[![image](img/VX.jpg)
