@@ -70,19 +70,19 @@
 
 - [腾讯课堂-硬编码与软编码区别，录屏时如何选取硬编与软编](android/mediacodec.md)
 
-- [Flutter为什么会做到一处写 处处运行 与RN的区别](android/thread.md)
+- [Flutter为什么会做到一处写 处处运行 与RN的区别](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-- [Flutter的图形引擎与Android的渲染引擎原理](android/thread.md)
+- [Flutter的图形引擎与Android的渲染引擎原理](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
 - [对于Tersorflow你怎么理解的，有做过人工智能的应用吗](android/tersorflow.md)
 
-- [为什么Android会出现卡顿](android/thread.md)
+- [为什么Android会出现卡顿](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
 - [给你一个Demo 你如何快速定位ANR](android/anr.md)
 
 - [Hadler是如何实现线程通信的](study/framework/Android消息机制.md)
 
-- [Glide对Bitmap的缓存与解码复用如何做到的](android/thread.md)
+- [Glide对Bitmap的缓存与解码复用如何做到的](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
 - [说说你对Dalvik虚拟机的认识 ](android/dalvik.md)
 
