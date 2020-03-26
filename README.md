@@ -18,6 +18,13 @@
 ​        其实如果你技术深度足够，大必不用为就业而忧愁。每个行业何尝不是这样，最开始的风口，到慢慢的成熟。Android初级在2019年的日子里风光不再， 靠会四大组件就能够获取到满意薪资的时代一去不复返。**经过一波一波的淘汰与洗牌，剩下的都是技术的金子。就像大浪褪去，裸泳的会慢慢上岸。**而真正坚持下来的一定会取得不错成绩。毕竟Android市场是如此之大。从Android高级的蓬勃的就业岗位需求来看，能坚信我们每一位Android开发者的梦想 。
 
  接下来我们针对Android高级展开的完整面试题 
+ ### kotlin(视频）
+ - [kotlin大全1-10视频代码](https://github.com/xiangjiana/Android-MS/blob/master/img/Kotlin_%E5%89%AF%E6%9C%AC.png)
+ ### flutter（视频）
+ - [flutter视频包](https://github.com/xiangjiana/Android-MS/blob/master/img/flutter.png)
+ ### 音视频高手开发从0开始认识（视频）
+ - [音视频高手开发系列视频1-10](https://github.com/xiangjiana/Android-MS/blob/master/img/%E9%9F%B3%E8%A7%86%E9%A2%91%E5%BC%80%E5%8F%911-10%E8%A7%86%E9%A2%91.png)
+ 
 
 ### 互联网的寒冬下，如何手握安卓70万年薪。一堂课带你走进象牙塔
 
