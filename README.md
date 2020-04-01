@@ -322,7 +322,7 @@
 
 [GitHub干货集合](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
-#### 后续持续更新中，添加QQ技术交流群：892872246, 备注github  VX：mm14525201314
+#### 后续持续更新中，添加技术交流群备注github  VX：mm14525201314
 
 ##### 加微信号，获取Android 2019年面试视频。发送"面试 "即可领取   另附企业内推，架构设计资料，相关视频资料
 
