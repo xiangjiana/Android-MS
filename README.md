@@ -153,43 +153,58 @@
 
   
 ### 视频区域
-- [BAT面试必备——HashMap原理与性能优化](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [项目越做越复杂？组件化开发替你解决所有问题](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [apk全方位健身 打造完美身材](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [阿里面试题单利模式下引发的血案，DCL双端锁下的CAS与ABA问题](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [MVP+Jetpack架构方案](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [Android高级架构师-手写组件Lifecycle](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [自定义今日头条炫酷ViewPager指示器](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [Android高级架构师-组件Navigation详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [UI优化——纵享丝滑ViewPager](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [Android高级架构师-组件DataBinding-Ex：双向绑定篇](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [海量用户App怎样保障网络连接的安全可靠？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [Android高级架构师-最新Jetpack架构详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [一小时学会自定义ViewGroup](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [Foundation（框架）](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [自定义QQ音乐歌词渐变效果](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [Jetpack源码分析。巨人是如何炼成的](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [无人机与地图导航类APP核心算法分享](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [MVVM+Jetpack实现的GitHub客户端](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [5G时代使用Webview的正确姿势](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [编译时技术的实践](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [架构师核心技术，请求型框架通用设计方案](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [ButterKnife详解与原理分析](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [人工智能技术实战，移动端NDK开发So easy](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [Dagger2核心原理分析](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [找工作必问的《设计模式》为什么那么重要？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [饿了么进程通信核心技术herms详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [一节课学会在项目中使用IoC框架 让你的代码更清爽](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [手写handler，引发内存泄漏的根源](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [MVVM架构核心技术databinding](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [组件化架构设计](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [自定义今日头条炫酷ViewPager指示器](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [插件化框架设计](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [高薪必备技术 插件化实现的核心原理](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [手写热修复框架Tinker](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [AI落地实战—移动平台身份证识别](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [网易云换肤技术详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [通过一个网络请求完美封装一个网络模块](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [图片加载框架Glide](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [网络加载框架OKHTTP详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [Rxjava2架构分析与源码详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [C/C++入门语法以及基础知识](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [5G时代引领者-NDK-JNI编程实战](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [5G时代引领者-NDK-构建脚本语法进阶](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [5G时代引领者-NDK-Linux编程知识](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [NDK实战应用](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 > 字节跳动面试集合
 
