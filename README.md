@@ -28,7 +28,7 @@
 ### 2020最新Android面试题目系列：
  - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
  
-  - [如何加载100M的图片却不撑爆内存,一张 100M 的大图，如何预防 OOM？](https://www.jianshu.com/p/3e2d9b23cfd6)
+  - [如何加载100M的图片却不撑爆内存,一张 100M 的大图，如何预防 OOM？](https://www.jianshu.com/p/878e4ddaa51b)
 
 ### 互联网的寒冬下，如何手握安卓70万年薪。一堂课带你走进象牙塔
 
