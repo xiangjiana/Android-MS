@@ -2,7 +2,7 @@
 
 # Android 高级面试
 
-### ![面试](img/面试.png)写给Android的一封信
+### ![面试](img/2020Android最新技术详解.png)写给Android的一封信
 ### 对于身边正在面试和面试中的人，加上我以往的面试经历整理了如下面试备考路线，和PDF版（有相应的视频教程在后面）
 ### ![MS](img/MS.png)
 ### ![PDF](img/PDF.png)
@@ -25,6 +25,10 @@
  ### 音视频高手开发从0开始认识（视频）
  - [音视频高手开发系列视频1-10](https://github.com/xiangjiana/Android-MS/blob/master/img/%E9%9F%B3%E8%A7%86%E9%A2%91%E5%BC%80%E5%8F%911-10%E8%A7%86%E9%A2%91.png)
  
+### 2020最新Android面试题目系列：
+ - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
+ 
+  - [如何加载100M的图片却不撑爆内存,一张 100M 的大图，如何预防 OOM？](https://www.jianshu.com/p/3e2d9b23cfd6)
 
 ### 互联网的寒冬下，如何手握安卓70万年薪。一堂课带你走进象牙塔
 
