@@ -106,7 +106,7 @@
 
 - [给你一个Demo 你如何快速定位ANR](android/anr.md)
 
-- [Hadler是如何实现线程通信的](study/framework/Android消息机制.md)
+- [Ha是如何实现线程通信的](study/framework/Android消息机制.md)
 
 - [Glide对Bitmap的缓存与解码复用如何做到的](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
