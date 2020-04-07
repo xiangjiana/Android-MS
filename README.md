@@ -27,7 +27,7 @@
  ### 音视频高手开发从0开始认识（视频）
  - [音视频高手开发系列视频1-10](https://github.com/xiangjiana/Android-MS/blob/master/img/%E9%9F%B3%E8%A7%86%E9%A2%91%E5%BC%80%E5%8F%911-10%E8%A7%86%E9%A2%91.png)
  ### 最新视频更新：
- - [90分钟搞定图片加载框架Glide，面试实战一条龙（视频）](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png）
+ - [1.90分钟搞定图片加载框架Glide，面试实战一条龙](https://github.com/xiangjiana/Android-MS/blob/master/img/Kotlin_%E5%89%AF%E6%9C%AC.png)
 
 
 ### 2020最新Android面试题目系列：
