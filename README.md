@@ -29,6 +29,13 @@
  ### 最新视频更新：
  - [1.90分钟搞定图片加载框架Glide，面试实战一条龙](https://github.com/xiangjiana/Android-MS/blob/master/img/Kotlin_%E5%89%AF%E6%9C%AC.png)
 
+ - [2.项目越做越复杂？组件化开发替你解决所有问题](https://github.com/xiangjiana/Android-MS/blob/master/img/Kotlin_%E5%89%AF%E6%9C%AC.png)
+ 
+  - [3.阿里面试题：单利模式下引发的血案，DCL双端锁下的CAS与ABA问题](https://github.com/xiangjiana/Android-MS/blob/master/img/Kotlin_%E5%89%AF%E6%9C%AC.png)
+  
+ - [4.即学即用的Android高级开发技能-大长图加载原理及手写实现](https://github.com/xiangjiana/Android-MS/blob/master/img/Kotlin_%E5%89%AF%E6%9C%AC.png)
+ 
+  - [5.Android动态加载技术的进阶，实现资源更新框架](https://github.com/xiangjiana/Android-MS/blob/master/img/Kotlin_%E5%89%AF%E6%9C%AC.png)
 
 ### 2020最新Android面试题目系列：
  - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
