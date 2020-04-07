@@ -27,13 +27,11 @@
  ### 音视频高手开发从0开始认识（视频）
  - [音视频高手开发系列视频1-10](https://github.com/xiangjiana/Android-MS/blob/master/img/%E9%9F%B3%E8%A7%86%E9%A2%91%E5%BC%80%E5%8F%911-10%E8%A7%86%E9%A2%91.png)
  ### 最新视频更新：
- #### 1.90分钟搞定图片加载框架Glide，面试实战一条龙（视频）
- (https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
-#### 2.项目越做越复杂？组件化开发替你解决所有问题(视频）
-(https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
-#### 3.阿里面试题：单利模式下引发的血案，DCL双端锁下的CAS与ABA问题（视频）
- (https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
-
+ #### 1.90分钟搞定图片加载框架Glide，面试实战一条龙（视频） (https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+#### 2.项目越做越复杂？组件化开发替你解决所有问题(视频）(https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+#### 3.阿里面试题：单利模式下引发的血案，DCL双端锁下的CAS与ABA问题（视频）(https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+#### 4.即学即用的Android高级开发技能-大长图加载原理及手写实现(https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+#### 5.Android动态加载技术的进阶，实现资源更新框架(https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 ### 2020最新Android面试题目系列：
  - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
  
@@ -355,6 +353,6 @@
 
 #### 后续持续更新中，添加技术交流群备注github  VX：mm14525201314
 
-##### 加微信号，获取Android 2019年面试视频。发送"面试 "即可领取   另附企业内推，架构设计资料，相关视频资料
+##### 加微信号，获取Android 2020年面试视频。发送"面试 "即可领取   另附企业内推，架构设计资料，相关视频资料
 
 [![VX](img/VX.png)
