@@ -38,6 +38,8 @@
   - [5.Android动态加载技术的进阶，实现资源更新框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   
   - [6.Binder机制详解，用Binder中mmap思想解决你的APP卡顿问题](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  
+  - [7.北上广深10年面试经验老司机倾囊相授，让你少走5-10年弯路的面试私房课（职业路径.简历规划.面试官心理分析.技术面试实战，Glide，Okhttp，优化面试题助你打通任督二脉）](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 
 ### 2020最新Android面试题目系列：
@@ -48,6 +50,9 @@
   - [宝宝巴士：Kotlin为什么会火起来，有什么特点，跟Java区别](https://www.jianshu.com/p/dd9c0b9af2a1)
   
   - [IGG：Android内存回收机制原理是什么](https://www.jianshu.com/p/2b2642ce379f)
+  
+ - [怒刷Android面试100题，再也不担心不能吊打面试官了](https://www.jianshu.com/p/c01c3d0b1ee9)
+  
 
 
 ### 互联网的寒冬下，如何手握安卓70万年薪。一堂课带你走进象牙塔
