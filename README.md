@@ -40,6 +40,8 @@
   - [6.Binder机制详解，用Binder中mmap思想解决你的APP卡顿问题](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   
   - [7.北上广深10年面试经验老司机倾囊相授，让你少走5-10年弯路的面试私房课（职业路径.简历规划.面试官心理分析.技术面试实战，Glide，Okhttp，优化面试题助你打通任督二脉）](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  
+ - [8.不会NDK怎么玩热修复？今晚教你从Java层实现腾讯Tinker热修复](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 
 ### 2020最新Android面试题目系列：
