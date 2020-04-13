@@ -45,6 +45,8 @@
  
 - [9.迈向架构师的第一步-从打造自己的网络访问框架开始](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [10Android项目的最终进化,插件化开发让你的应用加载海量插件](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 ### 2020最新Android面试题目系列：
  - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
@@ -56,6 +58,10 @@
   - [IGG：Android内存回收机制原理是什么](https://www.jianshu.com/p/2b2642ce379f)
   
  - [怒刷Android面试100题，再也不担心不能吊打面试官了](https://www.jianshu.com/p/c01c3d0b1ee9)
+ 
+  - [字节跳动:Android R如何访问文件，修改文件，你们对R适配了吗](https://www.jianshu.com/p/994b72f06af9)
+  
+   - [字节跳动：IO优化是怎么做的，使用 SharedPreferences为什么这么卡，mmkv原理是什么](https://www.jianshu.com/p/12428890ae1e)
   
 
 
