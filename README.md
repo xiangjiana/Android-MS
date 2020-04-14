@@ -47,6 +47,10 @@
 
 - [10.Android项目的最终进化,插件化开发让你的应用加载海量插件](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [11.告别“搬运工”手写微信，QQ都在用的数据框框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [12.JVM虚拟机层看Klass 对象生成机制，揭秘从未看过的细节](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 ### 2020最新Android面试题目系列：
  - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
@@ -62,6 +66,8 @@
   - [字节跳动:Android R如何访问文件，修改文件，你们对R适配了吗](https://www.jianshu.com/p/994b72f06af9)
   
    - [字节跳动：IO优化是怎么做的，使用 SharedPreferences为什么这么卡，mmkv原理是什么](https://www.jianshu.com/p/12428890ae1e)
+   
+   - [2020年腾讯丶百度丶字节丶OPPO等Android面试大全，附带教你如何写好简历](https://www.jianshu.com/p/af7938c116bb)
   
 
 
