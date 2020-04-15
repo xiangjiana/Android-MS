@@ -51,23 +51,27 @@
 
 - [12.JVM虚拟机层看Klass 对象生成机制，揭秘从未看过的细节](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [13.Android编译时技术的实战，打造全自动注入框架ButterKnife](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 ### 2020最新Android面试题目系列：
  - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
  
-  - [如何加载100M的图片却不撑爆内存,一张 100M 的大图，如何预防 OOM？](https://www.jianshu.com/p/878e4ddaa51b)
+ - [如何加载100M的图片却不撑爆内存,一张 100M 的大图，如何预防 OOM？](https://www.jianshu.com/p/878e4ddaa51b)
   
-  - [宝宝巴士：Kotlin为什么会火起来，有什么特点，跟Java区别](https://www.jianshu.com/p/dd9c0b9af2a1)
+ - [宝宝巴士：Kotlin为什么会火起来，有什么特点，跟Java区别](https://www.jianshu.com/p/dd9c0b9af2a1)
   
-  - [IGG：Android内存回收机制原理是什么](https://www.jianshu.com/p/2b2642ce379f)
+ - [IGG：Android内存回收机制原理是什么](https://www.jianshu.com/p/2b2642ce379f)
   
  - [怒刷Android面试100题，再也不担心不能吊打面试官了](https://www.jianshu.com/p/c01c3d0b1ee9)
  
-  - [字节跳动:Android R如何访问文件，修改文件，你们对R适配了吗](https://www.jianshu.com/p/994b72f06af9)
+ - [字节跳动:Android R如何访问文件，修改文件，你们对R适配了吗](https://www.jianshu.com/p/994b72f06af9)
   
-   - [字节跳动：IO优化是怎么做的，使用 SharedPreferences为什么这么卡，mmkv原理是什么](https://www.jianshu.com/p/12428890ae1e)
+  - [字节跳动：IO优化是怎么做的，使用 SharedPreferences为什么这么卡，mmkv原理是什么](https://www.jianshu.com/p/12428890ae1e)
    
-   - [2020年腾讯丶百度丶字节丶OPPO等Android面试大全，附带教你如何写好简历](https://www.jianshu.com/p/af7938c116bb)
+  - [2020年腾讯丶百度丶字节丶OPPO等Android面试大全，附带教你如何写好简历](https://www.jianshu.com/p/af7938c116bb)
+   
+ - [面试官说：大家都说 Java 反射效率低，你知道原因在哪里么](https://www.jianshu.com/p/4a32b9b71115)
   
 
 
