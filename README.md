@@ -53,6 +53,8 @@
 
 - [13.Android编译时技术的实战，打造全自动注入框架ButterKnife](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [14.性能优从只会开发到全盘掌控App性能，只需要从这节课开始化](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 ### 2020最新Android面试题目系列：
  - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
@@ -72,6 +74,8 @@
   - [2020年腾讯丶百度丶字节丶OPPO等Android面试大全，附带教你如何写好简历](https://www.jianshu.com/p/af7938c116bb)
    
  - [面试官说：大家都说 Java 反射效率低，你知道原因在哪里么](https://www.jianshu.com/p/4a32b9b71115)
+ 
+ - [Android 开发中的架构模式 -- MVC / MVP / MVVM](https://www.jianshu.com/p/218f9432ee52)
   
 
 
