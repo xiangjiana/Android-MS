@@ -57,6 +57,8 @@
 
 - [15.老司机打破Bitmap常规思维，从Skia引擎看Bitmap加载原理](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [16.你的应用做了埋点上传吗？手写编译时今日头条的埋点架构](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 ### 2020最新Android面试题目系列：
  - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
