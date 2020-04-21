@@ -59,6 +59,8 @@
 
 - [16.你的应用做了埋点上传吗？手写编译时今日头条的埋点架构](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [17.NDK大牛带你一堂课搞定一线大厂音视频面试集合](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 ### 2020最新Android面试题目系列：
  - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
@@ -80,6 +82,8 @@
  - [面试官说：大家都说 Java 反射效率低，你知道原因在哪里么](https://www.jianshu.com/p/4a32b9b71115)
  
  - [Android 开发中的架构模式 -- MVC / MVP / MVVM](https://www.jianshu.com/p/218f9432ee52)
+ 
+  - [关于阿里推出的路由框架ARouter源码解析](https://www.jianshu.com/p/7b4d085e23a9)
   
 
 
