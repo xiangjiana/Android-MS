@@ -61,6 +61,8 @@
 
 - [17.NDK大牛带你一堂课搞定一线大厂音视频面试集合](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [18.想成为架构师吗？，如果连网络访问框架都拧不清怎么行？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 ### 2020最新Android面试题目系列：
  - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
@@ -83,7 +85,9 @@
  
  - [Android 开发中的架构模式 -- MVC / MVP / MVVM](https://www.jianshu.com/p/218f9432ee52)
  
-  - [关于阿里推出的路由框架ARouter源码解析](https://www.jianshu.com/p/7b4d085e23a9)
+ - [关于阿里推出的路由框架ARouter源码解析](https://www.jianshu.com/p/7b4d085e23a9)
+  
+ - [脱了马甲我也认识你: 聊聊 Android 中类的真实形态](https://www.jianshu.com/p/1094f6e4444f)
   
 
 
