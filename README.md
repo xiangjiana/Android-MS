@@ -75,6 +75,10 @@
 
 - [24.听说你想成为架构师？那你有架构style没？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [25.Android动态加载技术的高级进阶，手写实现网易云主题换肤框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+
+
 
 
 
