@@ -71,6 +71,12 @@
 
 - [22.UI优化是不是只会说布局层级不能太深？来，这里有全盘深度分析！](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [23.注解反射的高级技巧，让你彻底了解EventBus是如何进行组件通信的](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [24.听说你想成为架构师？那你有架构style没？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+
+
 
 ### 2020最新Android面试题目系列：
  - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
@@ -96,6 +102,10 @@
  - [关于阿里推出的路由框架ARouter源码解析](https://www.jianshu.com/p/7b4d085e23a9)
   
  - [脱了马甲我也认识你: 聊聊 Android 中类的真实形态](https://www.jianshu.com/p/1094f6e4444f)
+
+ - [Android面试分析一：关于OKhttp详解（附带视频教程）](https://www.jianshu.com/p/f4e353336b86)
+
+
   
 
 
