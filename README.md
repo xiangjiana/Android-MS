@@ -79,6 +79,9 @@
 
 - [26.趣讲Binder专题 手写Binder进程通信机制](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [26.Jetpack之后你还没有解锁LiveData？来，一节课带你解锁并且运用到项目中](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+
 
 
 
