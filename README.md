@@ -79,7 +79,12 @@
 
 - [26.趣讲Binder专题 手写Binder进程通信机制](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [26.Jetpack之后你还没有解锁LiveData？来，一节课带你解锁并且运用到项目中](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [27.Jetpack之后你还没有解锁LiveData？来，一节课带你解锁并且运用到项目中](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [28.为什么选择Glide作为图片加载框架，与Fresco，Pascco优势在哪里](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [29.（4.30）即学即用的Android高级技能，大长图加载原理及手写实现(哈夫曼算法）](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 
 
