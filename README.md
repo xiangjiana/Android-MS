@@ -83,7 +83,11 @@
 
 - [28.为什么选择Glide作为图片加载框架，与Fresco，Pascco优势在哪里](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [29.（4.30）即学即用的Android高级技能，大长图加载原理及手写实现(哈夫曼算法）](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [29.即学即用的Android高级技能，大长图加载原理及手写实现(哈夫曼算法）](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [30.高级UI要不要了解下？老司机带你来一堂自定义ViewGroup实战课](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [31.面试时总被内存问题虐千遍？理论知识又看不懂？来，这节课彻底搞定它](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 
 
