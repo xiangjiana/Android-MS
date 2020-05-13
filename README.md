@@ -93,6 +93,10 @@
 
 - [31.面试时总被内存问题虐千遍？理论知识又看不懂？来，这节课彻底搞定它](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [32.Android事件总线框架到底有多简单，四个核心类阐述其原理](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [33.虚拟机详解内存结构原理，用代码的角度分析内存分布](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 
 
