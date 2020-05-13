@@ -97,6 +97,7 @@
 
 - [33.虚拟机详解内存结构原理，用代码的角度分析内存分布](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [35.大厂架构师带你手写Glide图片加载框架，让你离架构师的距离更近一步](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 
 
