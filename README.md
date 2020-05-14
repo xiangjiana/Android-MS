@@ -99,6 +99,8 @@
 
 - [34.大厂架构师带你手写Glide图片加载框架，让你离架构师的距离更近一步](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [35.带你从源码的角度解读Handler核心机制](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 
 
