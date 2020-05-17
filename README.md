@@ -101,6 +101,8 @@
 
 - [35.带你从源码的角度解读Handler核心机制](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [36.FFmpeg和MediaCodec的API看不懂？应该从音视频H264编码原理入手](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 
 
