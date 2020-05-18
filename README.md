@@ -1,13 +1,13 @@
 
-
 # Android 高级面试
 
-![](img/2020Android最新技术详解.png)
+![面试](img/2020Android最新技术详解.png)
 
 #### 写给Android的一封信
 ### 对于身边正在面试和面试中的人，加上我以往的面试经历整理了如下面试备考路线，和PDF版（有相应的视频教程在后面）
-![](img/MS.png)
-![](img/PDF.png)
+![MS](img/MS.png)
+
+![PDF](img/PDF.png)
 
 最近半年，常常有人问我 “Android就业市场究竟怎么样，我还能不能坚持下去 ?”
 
@@ -19,9 +19,11 @@
 
 ​        其实如果你技术深度足够，大必不用为就业而忧愁。每个行业何尝不是这样，最开始的风口，到慢慢的成熟。Android初级在2019年的日子里风光不再， 靠会四大组件就能够获取到满意薪资的时代一去不复返。**经过一波一波的淘汰与洗牌，剩下的都是技术的金子。就像大浪褪去，裸泳的会慢慢上岸。**而真正坚持下来的一定会取得不错成绩。毕竟Android市场是如此之大。从Android高级的蓬勃的就业岗位需求来看，能坚信我们每一位Android开发者的梦想 。
 
-### ![2020面试专题](img/2020面试专题.png)
-### ![2020面试专题目录](img/2020面试专题目录.png)
-### ![23种设计模式](img/23种设计模式.png)
+![2020面试专题](img/2020面试专题.png)
+
+![2020面试专题目录](img/2020面试专题目录.png)
+
+![23种设计模式](img/23种设计模式.png)
 
  接下来我们针对Android高级展开的完整面试题 
  ### kotlin(视频）
@@ -34,11 +36,11 @@
  - [1.90分钟搞定图片加载框架Glide，面试实战一条龙](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
  - [2.项目越做越复杂？组件化开发替你解决所有问题](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
- 
+
   - [3.阿里面试题：单利模式下引发的血案，DCL双端锁下的CAS与ABA问题](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   
  - [4.即学即用的Android高级开发技能-大长图加载原理及手写实现](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
- 
+
   - [5.Android动态加载技术的进阶，实现资源更新框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   
   - [6.Binder机制详解，用Binder中mmap思想解决你的APP卡顿问题](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
@@ -46,7 +48,7 @@
   - [7.北上广深10年面试经验老司机倾囊相授，让你少走5-10年弯路的面试私房课（职业路径.简历规划.面试官心理分析.技术面试实战，Glide，Okhttp，优化面试题助你打通任督二脉）](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   
  - [8.不会NDK怎么玩热修复？今晚教你从Java层实现腾讯Tinker热修复](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
- 
+
 - [9.迈向架构师的第一步-从打造自己的网络访问框架开始](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 - [10.Android项目的最终进化,插件化开发让你的应用加载海量插件](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
@@ -117,7 +119,7 @@
 
 ### 2020最新Android面试题目系列：
  - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
- 
+
  - [如何加载100M的图片却不撑爆内存,一张 100M 的大图，如何预防 OOM？](https://www.jianshu.com/p/878e4ddaa51b)
   
  - [宝宝巴士：Kotlin为什么会火起来，有什么特点，跟Java区别](https://www.jianshu.com/p/dd9c0b9af2a1)
@@ -125,7 +127,7 @@
  - [IGG：Android内存回收机制原理是什么](https://www.jianshu.com/p/2b2642ce379f)
   
  - [怒刷Android面试100题，再也不担心不能吊打面试官了](https://www.jianshu.com/p/c01c3d0b1ee9)
- 
+
  - [字节跳动:Android R如何访问文件，修改文件，你们对R适配了吗](https://www.jianshu.com/p/994b72f06af9)
   
   - [字节跳动：IO优化是怎么做的，使用 SharedPreferences为什么这么卡，mmkv原理是什么](https://www.jianshu.com/p/12428890ae1e)
@@ -133,9 +135,9 @@
   - [2020年Android最先面试专题助你斩获offer，以及教你如何一步步简历](https://www.jianshu.com/p/af7938c116bb)
    
  - [面试官说：大家都说 Java 反射效率低，你知道原因在哪里么](https://www.jianshu.com/p/4a32b9b71115)
- 
+
  - [Android 开发中的架构模式 -- MVC / MVP / MVVM](https://www.jianshu.com/p/218f9432ee52)
- 
+
  - [关于阿里推出的路由框架ARouter源码解析](https://www.jianshu.com/p/7b4d085e23a9)
   
  - [脱了马甲我也认识你: 聊聊 Android 中类的真实形态](https://www.jianshu.com/p/1094f6e4444f)
@@ -143,7 +145,7 @@
  - [Android面试分析一：关于OKhttp详解（附带视频教程）](https://www.jianshu.com/p/f4e353336b86)
 
 
-  
+
 
 
 ### 互联网的寒冬下，如何手握安卓70万年薪。一堂课带你走进象牙塔
