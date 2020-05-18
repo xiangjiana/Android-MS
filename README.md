@@ -320,3 +320,24 @@
 - [5G时代引领者-NDK-JNI编程实战](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 - [5G时代引领者-NDK-构建脚本](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+### OPCV学习资料
+#### 第一章 预备知识
+- [1.1.编程的流程](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [1.2.什么叫编辑](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [1.3.什么叫编译](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [1.4.什么叫连接](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [1.5.什么叫运行](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [1.6.Visual C++是什么](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [1.7.头文件](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [1.8.库文件](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [1.9.OpenCV是什么](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [1.10.什么是命令行参数](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [1.11.常见编译错误](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.11.1找不到头文件](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.11.2拼写错误](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  
+- [1.12.常见链接错误](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [1.13.运行时错误](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+
