@@ -81,9 +81,9 @@
 
 - [25.Android动态加载技术的高级进阶，手写实现网易云主题换肤框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [26.binder专题（一）直捣Binder四层框架，趣讲Binder进程通信框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [26.Binder专题（一）直捣Binder四层框架，趣讲Binder进程通信框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [27.binder专题（二）进程通信的核心内存管理与调度，深入理解Binder中内存操作](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [27.Binder专题（二）进程通信的核心内存管理与调度，深入理解Binder中内存操作](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 - [28.Binder专题（三）基于Binder的底层实现，手写Binder进程通信框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
@@ -130,7 +130,7 @@
   
   - [字节跳动：IO优化是怎么做的，使用 SharedPreferences为什么这么卡，mmkv原理是什么](https://www.jianshu.com/p/12428890ae1e)
    
-  - [2020年腾讯丶百度丶字节丶OPPO等Android面试大全，附带教你如何写好简历](https://www.jianshu.com/p/af7938c116bb)
+  - [2020年Android最先面试专题助你斩获offer，以及教你如何一步步简历](https://www.jianshu.com/p/af7938c116bb)
    
  - [面试官说：大家都说 Java 反射效率低，你知道原因在哪里么](https://www.jianshu.com/p/4a32b9b71115)
  
