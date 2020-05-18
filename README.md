@@ -103,6 +103,8 @@
 
 - [36.FFmpeg和MediaCodec的API看不懂？应该从音视频H264编码原理入手](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
+- [37.如果你是架构师？怎样能让你的应用只有10M的体积确拥有1000M的功能](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 
 
