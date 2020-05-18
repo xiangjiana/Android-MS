@@ -207,7 +207,7 @@
 
 - [给你一个Demo 你如何快速定位ANR](android/anr.md)
 
-- [Ha是如何实现线程通信的](study/framework/Android消息机制.md)
+- [Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么](study/framework/Android消息机制.md)
 
 - [Glide对Bitmap的缓存与解码复用如何做到的](https://github.com/xiangjiana/Android-MS/edit/master/README.md)
 
