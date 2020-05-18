@@ -319,4 +319,4 @@
 
 - [5G时代引领者-NDK-JNI编程实战](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [5G时代引领者-NDK-构建脚本
+- [5G时代引领者-NDK-构建脚本](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
