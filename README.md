@@ -81,29 +81,33 @@
 
 - [25.Android动态加载技术的高级进阶，手写实现网易云主题换肤框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [26.趣讲Binder专题 手写Binder进程通信机制](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [26.binder专题（一）直捣Binder四层框架，趣讲Binder进程通信框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [27.Jetpack之后你还没有解锁LiveData？来，一节课带你解锁并且运用到项目中](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [27.binder专题（二）进程通信的核心内存管理与调度，深入理解Binder中内存操作](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [28.为什么选择Glide作为图片加载框架，与Fresco，Pascco优势在哪里](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [28.Binder专题（三）基于Binder的底层实现，手写Binder进程通信框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [29.即学即用的Android高级技能，大长图加载原理及手写实现(哈夫曼算法）](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [29.Jetpack之后你还没有解锁LiveData？来，一节课带你解锁并且运用到项目中](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [30.高级UI要不要了解下？老司机带你来一堂自定义ViewGroup实战课](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [30.为什么选择Glide作为图片加载框架，与Fresco，Pascco优势在哪里](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [31.面试时总被内存问题虐千遍？理论知识又看不懂？来，这节课彻底搞定它](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [31.即学即用的Android高级技能，大长图加载原理及手写实现(哈夫曼算法）](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [32.Android事件总线框架到底有多简单，四个核心类阐述其原理](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [32.高级UI要不要了解下？老司机带你来一堂自定义ViewGroup实战课](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [33.虚拟机详解内存结构原理，用代码的角度分析内存分布](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [33.面试时总被内存问题虐千遍？理论知识又看不懂？来，这节课彻底搞定它](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [34.大厂架构师带你手写Glide图片加载框架，让你离架构师的距离更近一步](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [34.Android事件总线框架到底有多简单，四个核心类阐述其原理](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [35.带你从源码的角度解读Handler核心机制](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [35.虚拟机详解内存结构原理，用代码的角度分析内存分布](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [36.FFmpeg和MediaCodec的API看不懂？应该从音视频H264编码原理入手](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [36.大厂架构师带你手写Glide图片加载框架，让你离架构师的距离更近一步](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [37.如果你是架构师？怎样能让你的应用只有10M的体积确拥有1000M的功能](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [37.带你从源码的角度解读Handler核心机制](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [38.FFmpeg和MediaCodec的API看不懂？应该从音视频H264编码原理入手](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+- [39.如果你是架构师？怎样能让你的应用只有10M的体积确拥有1000M的功能](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 
 
