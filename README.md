@@ -109,7 +109,11 @@
 
 - [39.如果你是架构师？怎样能让你的应用只有10M的体积确拥有1000M的功能](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-
+- [40抖音视频剪辑原理，手写视频剪辑与背景音乐合成](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+内容：
+  - [1 MeidiaCodec编码详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [2 不替换视频音乐前提下，将歌曲合成到视频声音  ](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [3 登顶IT界的皇冠-手写视频剪辑技术](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 
 
