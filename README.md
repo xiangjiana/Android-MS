@@ -98,10 +98,20 @@
 - [33.面试时总被内存问题虐千遍？理论知识又看不懂？来，这节课彻底搞定它](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 - [34.Android事件总线框架到底有多简单，四个核心类阐述其原理](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.Android常用组件通信方式阐述](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [2.注解与反射在事件总线框架中的使用](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [3.从实战中了解解耦的核心思想与代码实现](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 - [35.虚拟机详解内存结构原理，用代码的角度分析内存分布](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.方法区，堆区，栈区详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [2.字节码指令与Dex指令集执行分析](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [3.寄存器与虚拟栈指令流程详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 - [36.大厂架构师带你手写Glide图片加载框架，让你离架构师的距离更近一步](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.Glide框架原理分析](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [2.图片加载框架要怎样封装?](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [3.怎么处理图片加载框架的高并发？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [4.Glide的三级缓存机制详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 - [37.带你从源码的角度解读Handler核心机制](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
  
