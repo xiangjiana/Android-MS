@@ -104,14 +104,24 @@
 - [36.大厂架构师带你手写Glide图片加载框架，让你离架构师的距离更近一步](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 - [37.带你从源码的角度解读Handler核心机制](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+ 
+  -[1.Handler源码分析的三条主线](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  -[2.源码中隐藏的那些不能忽视的技术](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  -[3.Handler相关面试题详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 - [38.FFmpeg和MediaCodec的API看不懂？应该从音视频H264编码原理入手](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.H264原理详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [2.信源编码器是如何对视频帧进行编码](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [3. slice(切片) Nal(宏块) （像素预测）详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 - [39.如果你是架构师？怎样能让你的应用只有10M的体积确拥有1000M的功能](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.如何让你的项目体积小功能多](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [2.没有安装的APK包我们怎么让它“动起来”](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [3.架构师该干的活就是把不可能变成可能](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [4.手写实现大厂都在玩的插件化开发框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 - [40抖音视频剪辑原理，手写视频剪辑与背景音乐合成](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-内容：
   - [1 MeidiaCodec编码详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [2 不替换视频音乐前提下，将歌曲合成到视频声音  ](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [3 登顶IT界的皇冠-手写视频剪辑技术](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
