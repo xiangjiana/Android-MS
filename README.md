@@ -105,9 +105,9 @@
 
 - [37.带你从源码的角度解读Handler核心机制](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
  
-  -[1.Handler源码分析的三条主线](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
-  -[2.源码中隐藏的那些不能忽视的技术](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
-  -[3.Handler相关面试题详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.Handler源码分析的三条主线](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [2.源码中隐藏的那些不能忽视的技术](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [3.Handler相关面试题详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 - [38.FFmpeg和MediaCodec的API看不懂？应该从音视频H264编码原理入手](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [1.H264原理详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
