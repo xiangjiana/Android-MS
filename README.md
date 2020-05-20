@@ -132,9 +132,15 @@
 
 - [40抖音视频剪辑原理，手写视频剪辑与背景音乐合成](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-  - [1 MeidiaCodec编码详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
-  - [2 不替换视频音乐前提下，将歌曲合成到视频声音  ](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
-  - [3 登顶IT界的皇冠-手写视频剪辑技术](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.MeidiaCodec编码详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [2.不替换视频音乐前提下，将歌曲合成到视频声音  ](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [3.登顶IT界的皇冠-手写视频剪辑技术](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  
+- [41.Android高级技能-大图加载，而你在本节课学到的可不止这一个点](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.大图加载原理分析](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [2.内存复用，图片占用内存分析以及代码实现](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [3.如何创建大图而不OOM？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [4.额外分享：面试遇到完全不会的问题怎么办？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 
 
