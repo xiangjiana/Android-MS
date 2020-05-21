@@ -141,6 +141,11 @@
   - [2.内存复用，图片占用内存分析以及代码实现](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [3.如何创建大图而不OOM？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [4.额外分享：面试遇到完全不会的问题怎么办？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  
+- [42. jepg图像引擎实现超过原生的图片压缩性能](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.哈夫曼压缩算法详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [2.Bitmap源码解读](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [3.native层读取图片](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 
 
