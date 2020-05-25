@@ -130,7 +130,7 @@
   - [3.架构师该干的活就是把不可能变成可能](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [4.手写实现大厂都在玩的插件化开发框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-- [40抖音视频剪辑原理，手写视频剪辑与背景音乐合成](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+- [40.抖音视频剪辑原理，手写视频剪辑与背景音乐合成](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
   - [1.MeidiaCodec编码详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [2.不替换视频音乐前提下，将歌曲合成到视频声音  ](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
