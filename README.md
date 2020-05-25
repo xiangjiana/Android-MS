@@ -146,6 +146,12 @@
   - [1.哈夫曼压缩算法详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [2.Bitmap源码解读](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [3.native层读取图片](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  
+- [43.破解组件化开发的核心密码，窥探阿里ARouter组件化路由框架的原理](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.什么是组件化？为什么要去将项目组件化开发](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [2.组件化开发中路由框架究竟是什么？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [3.阿里ARouter框架的原理解析](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [4.APT技术实现手写Arouter框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 
 
@@ -177,6 +183,8 @@
  - [脱了马甲我也认识你: 聊聊 Android 中类的真实形态](https://www.jianshu.com/p/1094f6e4444f)
 
  - [Android面试分析一：关于OKhttp详解（附带视频教程）](https://www.jianshu.com/p/f4e353336b86)
+ 
+ - [面试官：内存泄漏连环问。被问懵了？来看看这个](https://www.bilibili.com/video/BV1ck4y1r7PK)
 
 
   
