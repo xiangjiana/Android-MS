@@ -182,9 +182,35 @@
   
  - [脱了马甲我也认识你: 聊聊 Android 中类的真实形态](https://www.jianshu.com/p/1094f6e4444f)
 
- - [Android面试分析一：关于OKhttp详解（附带视频教程）](https://www.jianshu.com/p/f4e353336b86)
+- [Android面试分析一：关于OKhttp详解（附带视频教程）](https://www.jianshu.com/p/f4e353336b86)
  
  - [面试官：内存泄漏连环问。被问懵了？来看看这个](https://www.bilibili.com/video/BV1ck4y1r7PK)
+ 
+#### Android性能优化篇
+
+- [Android性能优化(1)- 启动优化](https://pan.baidu.com/s/1sYhcDcYY4kCZ-MVZW6k-Iw)
+  
+ - [Android性能优化(2)-UI渲染优化](https://pan.baidu.com/s/1HvdomoNJ8FAjak7ag-UyuQ)
+   
+ - [Android性能优化(3)-奔溃优化 （1）](https://pan.baidu.com/s/19d74yWlwXymih6FodSEMlQ)
+ 
+ - [Android性能优化(3)-奔溃优化 （2）](https://pan.baidu.com/s/11GU4wUmwIC9MgSEFOEM3wQ)
+    
+ - [Android性能优化(4)-内存优化 ](https://pan.baidu.com/s/1TUokQBxTXWZE-vIegupYQg)
+     
+ - [Android性能优化(5)-卡顿优化](https://pan.baidu.com/s/15rJ_qEWSJdlODA6ifjHTAw)
+      
+ - [Android性能优化(6)-存储优化](https://pan.baidu.com/s/1Lh1hMKEpFFS3hAiQ4nh2MA)
+     
+ - [Android性能优化(7)-网络优化（1）](https://pan.baidu.com/s/1WpEAxTVMm-gLe5qERilGIw)
+ 
+ - [Android性能优化(7)-网络优化（2）](https://pan.baidu.com/s/1Hdx-nGUvmoL3HHHl7VYdDQ)
+
+ - [Android性能优化(8)-耗电优化](https://pan.baidu.com/s/1xTRkspJjBEuk6NFPv3KrvQ)
+         
+ - [Android性能优化(9)-多线程并发优化](https://pan.baidu.com/s/1KyMPkPHABIoXHxEC9rKRag)
+
+ - [Android性能优化(10)-安装包优化](https://pan.baidu.com/s/15fRUftHVly_xGquHtNWDmQ)
 
 
   
