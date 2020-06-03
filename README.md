@@ -152,6 +152,23 @@
   - [2.组件化开发中路由框架究竟是什么？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [3.阿里ARouter框架的原理解析](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [4.APT技术实现手写Arouter框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  
+  - [43.破解组件化开发的核心密码，窥探阿里ARouter组件化路由框架的原理](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+ - [1.什么是没有方向就停下来，了解Android发展才能稳步前行组件化？为什么要去将项目组件化开发](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+    - [用真实数据验证Android开发者的前景](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+    - [让offer追着你的秘诀是什么？简历全盘解析](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+    - [制定职业规划，为未来铺平道路](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+    
+ - [2.工欲善其事必先利其器-OkHttp源码解读](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+    - [为什么OkHttp使用Socket而不是HttpUrlConnection](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+    - [Okhttp流程，核心类全解析](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+    - [从源码角度了解Okhttp中构建者与责任链模式](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+    - [如何设计自定义网络访问框架](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+    
+ - [3.技能持续进阶-Glide详解，让你对图片加载框架知根知底](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+    - [Glide源码三条主线分析](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+    - [Glide生命周期管理策略分析](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+
 
 
 
