@@ -153,7 +153,8 @@
   - [3.阿里ARouter框架的原理解析](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [4.APT技术实现手写Arouter框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   
-  - [43.破解组件化开发的核心密码，窥探阿里ARouter组件化路由框架的原理](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
+  ### 2020年最新Android大厂面试课 只为你进BAT增加50%的成功率面试专题
+  - [2020年最新Android大厂面试课 只为你进BAT增加50%的成功率面试专题](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
  - [1.什么是没有方向就停下来，了解Android发展才能稳步前行组件化？为什么要去将项目组件化开发](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
     - [用真实数据验证Android开发者的前景](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
     - [让offer追着你的秘诀是什么？简历全盘解析](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
