@@ -152,8 +152,20 @@
   - [2.组件化开发中路由框架究竟是什么？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [3.阿里ARouter框架的原理解析](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [4.APT技术实现手写Arouter框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
-  
-  ### 2020年最新Android大厂面试课 只为你进BAT增加50%的成功率面试专题
+
+- [44.阿里P7岗面试关于RecyclerView的连环炮，一小时解决RecyclerView所有底层疑惑](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.RecyclerView的复用机制，简单说说View回收与复用的过程](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [2.RecyclerView支持多个不同类型布局，他们怎么缓存，并且查找的呢](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [3.说一说RecyclerView适配器的原理](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [4.理清RecyclerView架构思想，手写RecyclerView自定义控件](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+ 
+- [45.千万级应用美团Robust修复原理，手写字节码插件技术技术点：](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [1.美团robust修复详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [2.robust依赖的插件实现方式](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [3.apk编译原理，groovy实现动态插入代码](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  - [4.自己实现robust插件，动态改动主工程代码](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+ 
+ ### 2020年最新Android大厂面试课 只为你进BAT增加50%的成功率面试专题
   - [2020年最新Android大厂面试课 只为你进BAT增加50%的成功率面试专题](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
  - [1.什么是没有方向就停下来，了解Android发展才能稳步前行组件化？为什么要去将项目组件化开发](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
     - [用真实数据验证Android开发者的前景](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
