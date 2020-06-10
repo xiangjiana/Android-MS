@@ -218,25 +218,21 @@
  
 #### Android性能优化篇
 
-- [Android性能优化(1)- 启动优化](https://pan.baidu.com/s/1sYhcDcYY4kCZ-MVZW6k-Iw)
+- [Android性能优化(1)- 启动优化](https://mp.weixin.qq.com/s/gZdL4rNuw0cHTXL7RkkJ1A)
   
- - [Android性能优化(2)-UI渲染优化](https://pan.baidu.com/s/1HvdomoNJ8FAjak7ag-UyuQ)
+ - [Android性能优化(2)-UI渲染优化](https://mp.weixin.qq.com/s/YeSkBcMB2tf0pVmddxA2Mg)
    
- - [Android性能优化(3)-奔溃优化 （1）](https://pan.baidu.com/s/19d74yWlwXymih6FodSEMlQ)
- 
- - [Android性能优化(3)-奔溃优化 （2）](https://pan.baidu.com/s/11GU4wUmwIC9MgSEFOEM3wQ)
+ - [Android性能优化(3)-奔溃优化 ](https://mp.weixin.qq.com/s/J8qPFv9Fbt9_UGKqGxS5YQ)
     
- - [Android性能优化(4)-内存优化 ](https://pan.baidu.com/s/1TUokQBxTXWZE-vIegupYQg)
+ - [Android性能优化(4)-内存优化 ](https://mp.weixin.qq.com/s/Rte_e7R7grfrYUE6RXJYKg)
      
  - [Android性能优化(5)-卡顿优化](https://pan.baidu.com/s/15rJ_qEWSJdlODA6ifjHTAw)
       
- - [Android性能优化(6)-存储优化](https://pan.baidu.com/s/1Lh1hMKEpFFS3hAiQ4nh2MA)
+ - [Android性能优化(6)-存储优化](https://mp.weixin.qq.com/s/6A4jU8spcLJa2BKdMS10yA)
      
- - [Android性能优化(7)-网络优化（1）](https://pan.baidu.com/s/1WpEAxTVMm-gLe5qERilGIw)
- 
- - [Android性能优化(7)-网络优化（2）](https://pan.baidu.com/s/1Hdx-nGUvmoL3HHHl7VYdDQ)
+ - [Android性能优化(7)-网络优化](https://mp.weixin.qq.com/s/rJChehNdyPFbB_LcKSV_jA)
 
- - [Android性能优化(8)-耗电优化](https://pan.baidu.com/s/1xTRkspJjBEuk6NFPv3KrvQ)
+ - [Android性能优化(8)-耗电优化](https://mp.weixin.qq.com/s/wJdzAM5a9a6rFHDdJMBfAA)
          
  - [Android性能优化(9)-多线程并发优化](https://pan.baidu.com/s/1KyMPkPHABIoXHxEC9rKRag)
 
