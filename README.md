@@ -30,6 +30,12 @@
  - [flutter视频包](https://github.com/xiangjiana/Android-MS/blob/master/img/flutter.png)
  ### 三丶音视频高手开发从0开始认识（视频）
  - [音视频高手开发系列视频1-10](https://github.com/xiangjiana/Android-MS/blob/master/img/%E9%9F%B3%E8%A7%86%E9%A2%91%E5%BC%80%E5%8F%911-10%E8%A7%86%E9%A2%91.png)
+ - [深入讲解音视频编码原理，H264码流详解（视频解码基础-封裝格式）](https://mp.weixin.qq.com/s/vNKkl7xXsZhgALu7VigcDg) 
+ 
+ - [深入讲解音视频编码原理，H264码流详解（H264编码-帧内预测）](https://mp.weixin.qq.com/s/OA6DV_hnCoWnn_0lcheVbg)
+ 
+ 
+ 
  ### 四丶最新视频更新：
  - [1.90分钟搞定图片加载框架Glide，面试实战一条龙](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
