@@ -171,7 +171,8 @@
   - [3.apk编译原理，groovy实现动态插入代码](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [4.自己实现robust插件，动态改动主工程代码](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
  
- ### 2020年最新Android大厂面试课 只为你进BAT增加50%的成功率面试专题
+ ### 五.专题篇
+ #### 2020年最新Android大厂面试课 只为你进BAT增加50%的成功率面试专题
   - [2020年最新Android大厂面试课 只为你进BAT增加50%的成功率面试专题](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
  - [1.什么是没有方向就停下来，了解Android发展才能稳步前行组件化？为什么要去将项目组件化开发](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
     - [用真实数据验证Android开发者的前景](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
@@ -189,12 +190,31 @@
     - [Glide生命周期管理策略分析](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
 
 
+ #### 2020年最新Android大厂面试课 只为你进BAT增加50%的成功率面试专题
+  - [拥抱组件化开发，手淘项目内部架构分享](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+ - [1.告别传统单一模块开发，拥抱组件化开发模式](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [什么是组件化，为什么要去将项目组件化？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [怎样对项目中所有的业务模块进行科学管理？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [没有耦合的业务模块怎样进行窗体跳转？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [组件化路由框架的原理解析](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    
+ - [2.组件化开发的核心密码，组件化理由框架手写](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [编译时技术的完美利用](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [类生成神器Java poet神助攻](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [路由表的空虚寂寞冷让我们如何满足它](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [手写实现组件化路由框架让组件化项目如虎添翼](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    
+ - [3.组件化开发中没有耦合的业务模块要如何通信？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [面对Android市场的N中通信方式我们该如何抉择](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [Jetpack中的liveData打造组件化通信框架](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [将通信框架集成到组件化项目中实现最终效果](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
 
 
 
 
 ### 五丶2020最新Android面试题目系列：
- - [面试官：你有用过Flutter吗? Flutter架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
+ - [面试官：你有用过Flutter吗? Flutte将通信框架集成到组件化项目中实现最终效果架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
  
  - [如何加载100M的图片却不撑爆内存,一张 100M 的大图，如何预防 OOM？](https://www.jianshu.com/p/878e4ddaa51b)
   
