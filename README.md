@@ -171,7 +171,7 @@
   - [3.apk编译原理，groovy实现动态插入代码](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [4.自己实现robust插件，动态改动主工程代码](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
  
- ### 五.专题篇
+ ### 五丶专题篇
  #### 2020年最新Android大厂面试课 只为你进BAT增加50%的成功率面试专题
   - [2020年最新Android大厂面试课 只为你进BAT增加50%的成功率面试专题](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
  - [1.什么是没有方向就停下来，了解Android发展才能稳步前行组件化？为什么要去将项目组件化开发](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
@@ -190,7 +190,7 @@
     - [Glide生命周期管理策略分析](https://mp.weixin.qq.com/s/YYLZv6J4tkhAYc_YS7lUwg)
 
 
- #### 2020年最新Android大厂面试课 只为你进BAT增加50%的成功率面试专题
+ #### 拥抱组件化开发，手淘项目内部架构分享
   - [拥抱组件化开发，手淘项目内部架构分享](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
  - [1.告别传统单一模块开发，拥抱组件化开发模式](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
     - [什么是组件化，为什么要去将项目组件化？](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
@@ -213,7 +213,7 @@
 
 
 
-### 五丶2020最新Android面试题目系列：
+### 六丶2020最新Android面试题目系列：
  - [面试官：你有用过Flutter吗? Flutte将通信框架集成到组件化项目中实现最终效果架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
  
  - [如何加载100M的图片却不撑爆内存,一张 100M 的大图，如何预防 OOM？](https://www.jianshu.com/p/878e4ddaa51b)
@@ -242,7 +242,7 @@
  
  - [面试官：内存泄漏连环问。被问懵了？来看看这个](https://www.bilibili.com/video/BV1ck4y1r7PK)
  
-#### Android性能优化篇
+#### 七丶Android性能优化篇
 
 - [Android性能优化(1)- 启动优化](https://mp.weixin.qq.com/s/gZdL4rNuw0cHTXL7RkkJ1A)
   
@@ -264,7 +264,7 @@
 
  - [Android性能优化(10)-安装包优化](https://mp.weixin.qq.com/s/Qo0y6xbZ8LFdYvcWdqmKjQ)
  
- #### Android Framework层面试
+ #### 八丶Android Framework层面试
  
 - [Android Framework层面试（1）-之Activity启动面试连环炮](https://mp.weixin.qq.com/s/LYQXe93evbHrleUPs62Jvw)
   
@@ -281,7 +281,7 @@
   
 
 
-### 六丶互联网的寒冬下，如何手握安卓70万年薪。一堂课带你走进象牙塔
+### 九丶互联网的寒冬下，如何手握安卓70万年薪。一堂课带你走进象牙塔
 
 [为什么会发生互联网的寒冬](android/videowhy.md)
 
@@ -303,7 +303,7 @@
 
 [小米--万物互联实现原理](android/net.md)
 
-### 七丶2019Android年高级面试
+### 十丶2019Android年高级面试
 
  * [2019年Bat面试集合](#2019年Bat面试集合)
  * [架构相关面试](#架构相关面试)
@@ -314,7 +314,7 @@
  * [专业领域相关面试](#专业领域相关面试)
  * [其他](#其他)
 
-### 八丶2019年Bat面试集合
+### 十一丶2019年Bat面试集合
 
 
 
@@ -407,7 +407,7 @@
 - [你曾经有没有对SqliteDatabase做过封装，你自己有设计过数据库框架吗?或者只是停留在使用ormlite  greenDao这类框架](android/sqlite.md)
 
   
-### 九丶视频区域
+### 十二丶视频区域
 - [项目越做越复杂？组件化开发替你解决所有问题](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 - [阿里面试题单利模式下引发的血案，DCL双端锁下的CAS与ABA问题](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
@@ -456,7 +456,7 @@
 
 - [5G时代引领者-NDK-构建脚本](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
-### 十丶OPCV学习资料
+### 十三丶OPCV学习资料
 #### 第一章 预备知识
 - [1.1.编程的流程](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
