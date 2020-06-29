@@ -210,7 +210,29 @@
     - [将通信框架集成到组件化项目中实现最终效果](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 
-
+ #### Android系统源码FrameWork实战专题
+ - [1.Android10.0 9.0 8.0深入虚拟机底层中讲解内存分布详解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [30分钟理清程序员对内存的恐惧，平时写的变量，对象在屋里内存的分部](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [方法区，栈区，堆区运行机制和流程分析](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [Android基于寄存器与JVM基于Java栈的区别和原理-寄存器的作用于原理](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [反编译dex文件之arm指令集分析，看看new一个对象最终变成了什么](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    
+ - [2.查看Android系统源码，dex中ARM公司的指令集加载与执行原理](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [深入理解Android核心关键字 new synchronized volatile final底层实现机制](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [Java对象在堆区大小为8个字节及每一个分部详解-hashcode函数执行机制，hashcode在内存中存在哪里](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [class类在方法区为何是426个字节，方法为何会增加4个字节](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [从JNIEnv入手找到类加载与class类构造机制](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    
+ - [3. sophix热修复前身--Arm指令集替换实现java方法动态修复技术](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [artMethod结构体 详细分析](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [执行引擎中class如何被加载，三部曲分析](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+     - [Findclass函数，类如何在虚拟机层只加载一次](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+     - [Defineclass函数，定义一个空的class](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+     - [Loadclass函数，dex文件中将类有磁盘缓存到内存](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  
+  - [虚拟机层替换执行引擎中arm指令](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [Android虚拟机层Java方法替换原理](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+    - [系统源码移植到AS编译与运行](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 
 ### 六丶2020最新Android面试题目系列：
