@@ -170,6 +170,14 @@
   - [2.robust依赖的插件实现方式](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [3.apk编译原理，groovy实现动态插入代码](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
   - [4.自己实现robust插件，动态改动主工程代码](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+  
+  - [46.架构师修炼之路-站在架构师的角度如何妙用自定义注解](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+   - [1.为什么不用EventBus了](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+   - [2. 事件膨胀如何解决](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+   - [3. 组件通信还能怎么玩](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
+
+  
+  
  
  ### 五丶专题篇
  #### 2020年最新Android大厂面试课 只为你进BAT增加50%的成功率面试专题
@@ -263,6 +271,8 @@
 - [Android面试分析一：关于OKhttp详解（附带视频教程）](https://www.jianshu.com/p/f4e353336b86)
  
  - [面试官：内存泄漏连环问。被问懵了？来看看这个](https://www.bilibili.com/video/BV1ck4y1r7PK)
+ 
+  - [阿里面试官：关于RecyclerView做下分享](https://www.jianshu.com/p/e5b2963706c7)
  
 #### 七丶Android性能优化篇
 
