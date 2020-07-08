@@ -3,6 +3,10 @@
 # Android 高级面试
 
 ### ![面试](img/2020Android最新技术详解.png)
+#### 最新更文：
+ - [我叫张东升，我是一名Android程序员，我有话要说](https://www.jianshu.com/p/ca36bf015eee)
+
+ - [Android开发第5年做了一个产品，被黄晓明，angelbabay，黄渤等一线明星转发后，我......](https://www.jianshu.com/p/bc9426831180)
 
 #### 写给Android的一封信
 ### 对于身边正在面试和面试中的人，加上我以往的面试经历整理了如下面试备考路线，和PDF版（有相应的视频教程在后面）
@@ -243,7 +247,7 @@
     - [系统源码移植到AS编译与运行](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png)
 
 
-### 六丶2020最新Android面试题目系列：
+### 六丶2020最新Android文章系列：
  - [面试官：你有用过Flutter吗? Flutte将通信框架集成到组件化项目中实现最终效果架构是怎么样，为什么会比其他如ReactNative好](https://www.jianshu.com/p/3e2d9b23cfd6)
  
  - [如何加载100M的图片却不撑爆内存,一张 100M 的大图，如何预防 OOM？](https://www.jianshu.com/p/878e4ddaa51b)
@@ -273,6 +277,10 @@
  - [面试官：内存泄漏连环问。被问懵了？来看看这个](https://www.bilibili.com/video/BV1ck4y1r7PK)
  
   - [阿里面试官：关于RecyclerView做下分享](https://www.jianshu.com/p/e5b2963706c7)
+  
+ - [我叫张东升，我是一名Android程序员，我有话要说](https://www.jianshu.com/p/ca36bf015eee)
+
+ - [Android开发第5年做了一个产品，被黄晓明，angelbabay，黄渤等一线明星转发后，我......](https://www.jianshu.com/p/bc9426831180)
  
 #### 七丶Android性能优化篇
 
