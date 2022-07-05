@@ -3,10 +3,9 @@
 # Android 高级面试
 
 ### ![面试](img/2020Android最新技术详解.png)
-#### 最新更文：
- - [我叫张东升，我是一名Android程序员，我有话要说](https://www.jianshu.com/p/ca36bf015eee)
-
- - [Android开发第5年做了一个产品，被黄晓明，angelbabay，黄渤等一线明星转发后，我......](https://www.jianshu.com/p/bc9426831180)
+#### 2022年7月更新：
+ - [突然弹出王者荣耀停止运行，GC超时导致的后台应用崩溃问题分析](https://www.bilibili.com/read/preview/17423259)
+ 
 
 #### 写给Android的一封信
 ### 对于身边正在面试和面试中的人，加上我以往的面试经历整理了如下面试备考路线，和PDF版（有相应的视频教程在后面）
