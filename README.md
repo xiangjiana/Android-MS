@@ -1,10 +1,8 @@
 [**版权声明**](#版权声明)
 
-# Android 高级面试
-
-### ![面试](img/2020Android最新技术详解.png)
+# 有些内容时间久远未来得及修整，需要的欢迎咨询。(备注GitHub） VX：mm14525201314
 #### 2022年7月更新：
- - [突然弹出王者荣耀停止运行，GC超时导致的后台应用崩溃问题分析](https://www.bilibili.com/read/preview/17423259)
+ - [突然弹出王者荣耀停止运行，GC超时导致的后台应用崩溃问题分析](https://www.bilibili.com/read/cv17423259?spm_id_from=333.999.list.card_article.click)
  
 
 #### 写给Android的一封信
@@ -578,7 +576,7 @@
    - [4.1.2写视频](https://github.com/xiangjiana/Android-MS/blob/master/img/VX.png) 
 
    
-  ## 更多相关面试内容，视频文档，2020面最新面试专题PPT，高级进阶
+  ## 更多相关面试内容，视频文档，2022面最新面试专题PPT，高级进阶
   ## (备注GitHub） VX：mm14525201314
   
   # 版权声明
