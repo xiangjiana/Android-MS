@@ -24,7 +24,30 @@
  
  - [AMS锁严重竞争导致的整机卡顿](http://lihaizhou.top/2021/09/18/AMS%E9%94%81%E4%B8%A5%E9%87%8D%E7%AB%9E%E4%BA%89%E5%AF%BC%E8%87%B4%E7%9A%84%E6%95%B4%E6%9C%BA%E5%8D%A1%E9%A1%BF/#/%E9%A2%91%E7%B9%81%E8%A7%A6%E5%8F%91%E5%8E%9F%E5%9B%A0)
  
- #### 视频篇：
+ - [对进程压缩消费Zram速度的优化](http://lihaizhou.top/2021/10/16/%E5%AF%B9%E8%BF%9B%E7%A8%8B%E5%8E%8B%E7%BC%A9%E6%B6%88%E8%B4%B9Zram%E9%80%9F%E5%BA%A6%E7%9A%84%E4%BC%98%E5%8C%96/)
+ 
+ - [对Android S ART GC的源码梳理](http://lihaizhou.top/2021/10/27/%E5%AF%B9Android-S-ART-GC%E7%9A%84%E6%BA%90%E7%A0%81%E6%A2%B3%E7%90%86/#/%E5%89%8D%E8%A8%80)
+ 
+ - [第三视角: 一个ART GC的优化故事](http://lihaizhou.top/2021/11/01/%E7%AC%AC%E4%B8%89%E8%A7%86%E8%A7%92-%E4%B8%80%E4%B8%AAART-GC%E7%9A%84%E4%BC%98%E5%8C%96%E6%95%85%E4%BA%8B/)
+ 
+ - [案例分析:打开应用后操作界面无响应(Systrace)](http://lihaizhou.top/2021/11/08/%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90-%E5%88%87%E6%8D%A2%E5%BA%94%E7%94%A8%E5%90%8E%E9%AB%98%E6%A6%82%E7%8E%87%E6%93%8D%E4%BD%9C%E6%97%A0%E5%93%8D%E5%BA%94-Systrace/)
+
+ - [Systrace角度: 拆解分析应用的启动流程](http://lihaizhou.top/2021/11/11/Systrace%E8%A7%92%E5%BA%A6-%E6%8B%86%E8%A7%A3%E5%88%86%E6%9E%90%E5%BA%94%E7%94%A8%E7%9A%84%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B/)
+ 
+ - [优化实践:从系统层面优化应用启动速度](http://lihaizhou.top/2021/11/19/%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5-%E4%BB%8E%E7%B3%BB%E7%BB%9F%E5%B1%82%E9%9D%A2%E4%BC%98%E5%8C%96%E5%BA%94%E7%94%A8%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6/)
+ 
+ - [优化实践: 高刷下列表滑动出现卡顿掉帧](http://lihaizhou.top/2021/11/27/%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5-%E9%AB%98%E5%88%B7%E4%B8%8B%E5%88%97%E8%A1%A8%E6%BB%91%E5%8A%A8%E5%87%BA%E7%8E%B0%E5%8D%A1%E9%A1%BF%E6%8E%89%E5%B8%A7/)
+
+ - [ANR原理分析及常见案例](http://lihaizhou.top/2022/02/10/ANR%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90%E5%8F%8A%E5%B8%B8%E8%A7%81%E6%A1%88%E4%BE%8B/)
+ 
+ - [网络 | 拥塞控制算法之BBR](http://lihaizhou.top/2022/03/01/%E7%BD%91%E7%BB%9C-%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95%E4%B9%8BBBR/)
+ 
+ - [ART 虚拟机｜Dex2oat 调优实践之路](http://lihaizhou.top/2022/03/20/ART-%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BD%9CDex2oat-%E8%B0%83%E4%BC%98%E5%AE%9E%E8%B7%B5%E4%B9%8B%E8%B7%AF/)
+ 
+ - [Android S Doze模式](http://lihaizhou.top/2022/04/19/Android-S-Doze%E6%A8%A1%E5%BC%8F/)
+ 
+
+#### 视频篇：
  - [面试必问&卡顿前奏 透过渲染看看卡顿，一秒明白卡顿原理（渲染篇）](https://www.bilibili.com/video/BV1CB4y1H7BV?spm_id_from=333.999.0.0&vd_source=7789239aa4aa0d282852cad0aba6b17a)
 
 #### 写给Android的一封信
