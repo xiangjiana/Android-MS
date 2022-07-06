@@ -22,6 +22,7 @@
 #### 2022年7月更新：
  - [突然弹出王者荣耀停止运行，GC超时导致的后台应用崩溃问题分析](https://www.bilibili.com/read/cv17423259?spm_id_from=333.999.list.card_article.click)
  
+ - [面试必问&卡顿前奏 透过渲染看看卡顿，一秒明白卡顿原理（渲染篇）](https://www.bilibili.com/video/BV1CB4y1H7BV?spm_id_from=333.999.0.0&vd_source=7789239aa4aa0d282852cad0aba6b17a)
 
 #### 写给Android的一封信
 ### 对于身边正在面试和面试中的人，加上我以往的面试经历整理了如下面试备考路线，和PDF版（有相应的视频教程持续更新）
