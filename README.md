@@ -51,11 +51,16 @@
  
 
 #### 视频篇+文字：
- - [面试必问&卡顿前奏 透过渲染看看卡顿，一秒明白卡顿原理（渲染篇）视频](https://www.bilibili.com/video/BV1CB4y1H7BV?spm_id_from=333.999.0.0&vd_source=7789239aa4aa0d282852cad0aba6b17a)
- 
+**1.面试必问&卡顿前奏 透过渲染看看卡顿，一秒明白卡顿原理（渲染篇）**
+  - [视频](https://www.bilibili.com/video/BV1CB4y1H7BV?spm_id_from=333.999.0.0&vd_source=7789239aa4aa0d282852cad0aba6b17a)
   - [文字](https://zhuanlan.zhihu.com/p/538440760)
+
+**2.腾讯面试必问卡顿优化之卡顿原理全解析与如何快速定位到卡顿问题**
+  - [视频](https://www.bilibili.com/video/BV1Bf4y1Z7iM/?vd_source=7789239aa4aa0d282852cad0aba6b17a)
+  - [文字](https://zhuanlan.zhihu.com/p/538818801)
+
  
- - [腾讯面试必问卡顿优化之卡顿原理全解析与如何快速定位到卡顿问题）](https://www.bilibili.com/video/BV1Bf4y1Z7iM/?vd_source=7789239aa4aa0d282852cad0aba6b17a)
+
 
 #### 写给Android的一封信
 ### 对于身边正在面试和面试中的人，加上我以往的面试经历整理了如下面试备考路线，和PDF版（有相应的视频教程持续更新）
