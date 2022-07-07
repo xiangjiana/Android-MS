@@ -20,6 +20,9 @@
 长期以来依赖第三方SDK，项目中一堆依赖库，想改变项目结构却没有勇气。想学习大型项目开发流程。
 
 ### 2022年7月更新：
+ - [UI渲染优化与卡顿分析](https://www.processon.com/view/link/622f2afc0e3e7407da4884d1#map)
+ 
+
  - [突然弹出王者荣耀停止运行，GC超时导致的后台应用崩溃问题分析](http://lihaizhou.top/2021/09/08/GC%E8%B6%85%E6%97%B6%E5%AF%BC%E8%87%B4%E7%9A%84%E5%90%8E%E5%8F%B0%E5%BA%94%E7%94%A8%E5%B4%A9%E6%BA%83%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90/)
  
  - [AMS锁严重竞争导致的整机卡顿](http://lihaizhou.top/2021/09/18/AMS%E9%94%81%E4%B8%A5%E9%87%8D%E7%AB%9E%E4%BA%89%E5%AF%BC%E8%87%B4%E7%9A%84%E6%95%B4%E6%9C%BA%E5%8D%A1%E9%A1%BF/#/%E9%A2%91%E7%B9%81%E8%A7%A6%E5%8F%91%E5%8E%9F%E5%9B%A0)
@@ -47,8 +50,12 @@
  - [Android S Doze模式](http://lihaizhou.top/2022/04/19/Android-S-Doze%E6%A8%A1%E5%BC%8F/)
  
 
-#### 视频篇：
- - [面试必问&卡顿前奏 透过渲染看看卡顿，一秒明白卡顿原理（渲染篇）](https://www.bilibili.com/video/BV1CB4y1H7BV?spm_id_from=333.999.0.0&vd_source=7789239aa4aa0d282852cad0aba6b17a)
+#### 视频篇+文字：
+ - [面试必问&卡顿前奏 透过渲染看看卡顿，一秒明白卡顿原理（渲染篇）视频](https://www.bilibili.com/video/BV1CB4y1H7BV?spm_id_from=333.999.0.0&vd_source=7789239aa4aa0d282852cad0aba6b17a)
+ 
+  - [文字](https://zhuanlan.zhihu.com/p/538440760)
+ 
+ - [腾讯面试必问卡顿优化之卡顿原理全解析与如何快速定位到卡顿问题）](https://www.bilibili.com/video/BV1Bf4y1Z7iM/?vd_source=7789239aa4aa0d282852cad0aba6b17a)
 
 #### 写给Android的一封信
 ### 对于身边正在面试和面试中的人，加上我以往的面试经历整理了如下面试备考路线，和PDF版（有相应的视频教程持续更新）
