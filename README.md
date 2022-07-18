@@ -19,6 +19,9 @@
  - **缺少大型项目经验**：
 长期以来依赖第三方SDK，项目中一堆依赖库，想改变项目结构却没有勇气。想学习大型项目开发流程。
 
+ # 汇总最全资料（包含音视频初-中-高；Flutter，kotlin;Compose;Framework;性能优化等）
+ - [腾讯T10+最新Android资料，让你告别繁琐](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484198&idx=1&sn=a88004032d1f14f6fc4835ae9aea861e&chksm=fc48b3abcb3f3abdccbea630a22a31720c4e0796b9458779a6adf7b154e88a2d2b74b298c3d3#rd)
+
 ### 2022年7月更新：
  - [UI渲染优化与卡顿分析](https://www.processon.com/view/link/622f2afc0e3e7407da4884d1#map)
  
