@@ -1,6 +1,6 @@
 [**版权声明**](#版权声明)
 
-### 有些内容时间久远未来得及修整，需要的欢迎咨询。(备注GitHub） VX：maniu0
+### 有些内容时间久远未来得及修整，需要的欢迎咨询。(备注GitHub） VX：maniu0（QQ：421869573）
 音视频初-中-高；Flutter，kotlin;Compose;Framework;性能优化；架构等
 
  [2022Android十一位大厂面试题；134道真题；再也不怕面试了](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484655&idx=1&sn=f0ddd8654340b274007b0a34c3f785f8&chksm=fc48b462cb3f3d743c184185352bc910aacd340d9529c44574117260d2c7d911c904a19e7193&token=180844452&lang=zh_CN#rd)
