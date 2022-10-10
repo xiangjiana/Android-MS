@@ -1,9 +1,41 @@
 [**版权声明**](#版权声明)
 
-### 有些内容时间久远未来得及修整，需要的欢迎咨询。(备注GitHub） VX：maniu0（QQ：421869573）
-音视频初-中-高；Flutter，kotlin;Compose;Framework;性能优化；架构等
+整理了Android十个板块的内容，具体如下，已形成PDF版（V：maniu110）
 
- [2022Android十一位大厂面试题；134道真题；再也不怕面试了](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484655&idx=1&sn=f0ddd8654340b274007b0a34c3f785f8&chksm=fc48b462cb3f3d743c184185352bc910aacd340d9529c44574117260d2c7d911c904a19e7193&token=180844452&lang=zh_CN#rd)
+1.2022最新Android11位大厂面试专题，128道附答案
+
+2.音视频大合集，从初中高到面试应有尽有
+
+3.Android车载应用大合集，从零开始一起学
+
+4.性能优化大合集，告别优化烦恼
+
+5.Framework大合集，从里到外分析的明明白白
+
+6.Flutter大合集，进阶Flutter高级工程师
+
+7.compose大合集，拥抱新技术
+
+8.Jetpack大合集，全家桶一次吃个够
+
+9.架构大合集，轻松应对工作需求
+
+10.Android基础篇大合集，根基稳固高楼平地起
+
+从面试专题，到音视频，车载应用，性能优化，Flutter，compose,Framework,Jetpack,架构，贯穿到基础。十大模块应有尽有，所有内容都免费获取，免费获取，整理不易，关注一下吧ღ( ´･ᴗ･` )比心
+
+
+ [Android十大板块预习文档；告别查找繁琐](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=1&sn=d5b1938dbf9af2dfc34ab41f8dafa737&chksm=fc48b6d5cb3f3fc3540e11d58c3809217a53ebc4c710ecdc2e3c8940ee88b637f7448fbb2f7f#rd)
+[1.2022最新十一位大厂Android128道面试真题（附答案）](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=2&sn=f3784db159ad77b7e8f0be65359382c8&chksm=fc48b6d5cb3f3fc3e1d16c9c10ac7e70bf1a80438eb60f514f0a72197cd3ab150632c7adc63c#rd)
+ [2.音视频大合集，从初中高级到面试应有尽有](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=3&sn=d6172f2ab77a9e80a9ba4e73b2b05aab&chksm=fc48b6d5cb3f3fc30d26fbaf9789c10feb10545cc0f8e192796279d8bbadd2ab3ea31cbf24a2#rd)
+ [3.Android车载大合集，从零开始一起学](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=4&sn=7f824f28ccdcf4389a6e3f2ab34382bc&chksm=fc48b6d5cb3f3fc358a91562667025afa81a150f974ee2bf0af9c4e4f00cf7dce60a510f51e1#rd)
+    
+[4.性能优化大合集，告别优化烦恼](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=5&sn=5f375824f0c325b244b63085572097bf&chksm=fc48b6d5cb3f3fc32af38c72f6b947e75a9b15650da1cc7f3d5c83599cb3d9d56efb52ebd9fd#rd)
+[5.架构大合集，轻松应对工作需求](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=5&sn=5f375824f0c325b244b63085572097bf&chksm=fc48b6d5cb3f3fc32af38c72f6b947e75a9b15650da1cc7f3d5c83599cb3d9d56efb52ebd9fd#rd)
+ [6.Framework大合集，从里到外分析的明明白白](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=6&sn=3719a7750c92f9fe5cecb7ccd0016793&chksm=fc48b6d5cb3f3fc307b352f6e6604c981316dab0287c88869d11876f2c2dd557006cb14895db#rd)
+ [7.Flutter大合集，进阶Flutter高级工程师](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=7&sn=af4a2079ae118d18204c4abca3685695&chksm=fc48b6d5cb3f3fc3ee11e513a38d993f8f080b5f166eb0b518709c10d5843a75b2391d85c889#rd)
+ [8.compose大合集，拥抱新技术](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=8&sn=4cf3f822a2a1094f4990d4444aadd4ac&chksm=fc48b6d5cb3f3fc383e350fa85bbbcdc074264fd62eb5953bb06cc6ad462d2ddf2f4f6c7384e#rd)
+[9.Jetpack大合集，全家桶一次吃个够](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=8&sn=4cf3f822a2a1094f4990d4444aadd4ac&chksm=fc48b6d5cb3f3fc383e350fa85bbbcdc074264fd62eb5953bb06cc6ad462d2ddf2f4f6c7384e#rd)
 
 
 如今Android开发不像前几年那么热门，但是高级人才依然紧缺，大家看着这句话是不是很熟悉，因为 其他行业的人才也紧缺，那么到了人工智能时代，人工智能时代的高级人才也同样会紧缺！似乎是高级人才的人在其他领域也是高级人才，而不是因为选择了热门才会一帆风顺。
