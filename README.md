@@ -1,6 +1,6 @@
 [**版权声明**](#版权声明)
 
-整理了Android十个板块的内容，具体如下，已形成PDF版（V：maniu110）
+### 整理了Android十个板块的内容，具体如下，已形成PDF版（V：maniu110）
 
 1.2022最新Android11位大厂面试专题，128道附答案
 
@@ -26,15 +26,23 @@
 
 
  [Android十大板块预习文档；告别查找繁琐](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=1&sn=d5b1938dbf9af2dfc34ab41f8dafa737&chksm=fc48b6d5cb3f3fc3540e11d58c3809217a53ebc4c710ecdc2e3c8940ee88b637f7448fbb2f7f#rd)
+ 
 [1.2022最新十一位大厂Android128道面试真题（附答案）](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=2&sn=f3784db159ad77b7e8f0be65359382c8&chksm=fc48b6d5cb3f3fc3e1d16c9c10ac7e70bf1a80438eb60f514f0a72197cd3ab150632c7adc63c#rd)
+
  [2.音视频大合集，从初中高级到面试应有尽有](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=3&sn=d6172f2ab77a9e80a9ba4e73b2b05aab&chksm=fc48b6d5cb3f3fc30d26fbaf9789c10feb10545cc0f8e192796279d8bbadd2ab3ea31cbf24a2#rd)
+ 
  [3.Android车载大合集，从零开始一起学](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=4&sn=7f824f28ccdcf4389a6e3f2ab34382bc&chksm=fc48b6d5cb3f3fc358a91562667025afa81a150f974ee2bf0af9c4e4f00cf7dce60a510f51e1#rd)
     
 [4.性能优化大合集，告别优化烦恼](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=5&sn=5f375824f0c325b244b63085572097bf&chksm=fc48b6d5cb3f3fc32af38c72f6b947e75a9b15650da1cc7f3d5c83599cb3d9d56efb52ebd9fd#rd)
+
 [5.架构大合集，轻松应对工作需求](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=5&sn=5f375824f0c325b244b63085572097bf&chksm=fc48b6d5cb3f3fc32af38c72f6b947e75a9b15650da1cc7f3d5c83599cb3d9d56efb52ebd9fd#rd)
+
  [6.Framework大合集，从里到外分析的明明白白](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=6&sn=3719a7750c92f9fe5cecb7ccd0016793&chksm=fc48b6d5cb3f3fc307b352f6e6604c981316dab0287c88869d11876f2c2dd557006cb14895db#rd)
+ 
  [7.Flutter大合集，进阶Flutter高级工程师](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=7&sn=af4a2079ae118d18204c4abca3685695&chksm=fc48b6d5cb3f3fc3ee11e513a38d993f8f080b5f166eb0b518709c10d5843a75b2391d85c889#rd)
+ 
  [8.compose大合集，拥抱新技术](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=8&sn=4cf3f822a2a1094f4990d4444aadd4ac&chksm=fc48b6d5cb3f3fc383e350fa85bbbcdc074264fd62eb5953bb06cc6ad462d2ddf2f4f6c7384e#rd)
+ 
 [9.Jetpack大合集，全家桶一次吃个够](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=8&sn=4cf3f822a2a1094f4990d4444aadd4ac&chksm=fc48b6d5cb3f3fc383e350fa85bbbcdc074264fd62eb5953bb06cc6ad462d2ddf2f4f6c7384e#rd)
 
 
@@ -772,7 +780,7 @@
 
    
   ## 更多相关面试内容，视频文档，2022面最新面试专题PPT，高级进阶
-  ## (备注GitHub） VX：mm14525201314
+  ## (备注GitHub） VX：maniu110
   
   # 版权声明
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>进行许可。
