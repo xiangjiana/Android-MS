@@ -1,6 +1,6 @@
 [**版权声明**](#版权声明)
 
-### 整理了Android十个板块的内容，具体如下，已形成PDF版（V：maniu110）
+### 整理了Android十二个板块的内容，具体如下，已形成PDF版（V：maniu110）
 
 1.2022最新Android11位大厂面试专题，128道附答案
 
@@ -21,6 +21,10 @@
 9.架构大合集，轻松应对工作需求
 
 10.Android基础篇大合集，根基稳固高楼平地起
+
+11.Flutter番外篇：Flutter面试+Flutter项目实战+Flutter电子书
+
+12.高级Android组件化强化实战
 
 从面试专题，到音视频，车载应用，性能优化，Flutter，compose,Framework,Jetpack,架构，贯穿到基础。十大模块应有尽有，所有内容都免费获取，免费获取，整理不易，关注一下吧ღ( ´･ᴗ･` )比心
 
@@ -44,6 +48,13 @@
  [8.compose大合集，拥抱新技术](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=8&sn=4cf3f822a2a1094f4990d4444aadd4ac&chksm=fc48b6d5cb3f3fc383e350fa85bbbcdc074264fd62eb5953bb06cc6ad462d2ddf2f4f6c7384e#rd)
  
 [9.Jetpack大合集，全家桶一次吃个够](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=8&sn=4cf3f822a2a1094f4990d4444aadd4ac&chksm=fc48b6d5cb3f3fc383e350fa85bbbcdc074264fd62eb5953bb06cc6ad462d2ddf2f4f6c7384e#rd)
+
+[10.Android基础篇大合集，根基稳固高楼平地起](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485016&idx=1&sn=d5b1938dbf9af2dfc34ab41f8dafa737&chksm=fc48b6d5cb3f3fc3540e11d58c3809217a53ebc4c710ecdc2e3c8940ee88b637f7448fbb2f7f&token=447129594&lang=zh_CN#rd)
+
+[11.Flutter番外篇：Flutter面试+Flutter项目实战+Flutter电子书](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485030&idx=1&sn=6a9e6fb04c97eb34f8e5c96d3678a765&chksm=fc48b6ebcb3f3ffdd3f3d940b7e4715a5a0b099cf150e3435c15ce4f1b80ba0dcc017fdf787a#rd)
+
+[12.高级Android组件化强化实战](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247485043&idx=1&sn=7f8751061160f003f43572212b99d1ee&chksm=fc48b6fecb3f3fe8d8e9dfb0aed9af8e46185daa1890be9a610d54ccf449124fb779ddd0489d#rd)
+
 
 
 如今Android开发不像前几年那么热门，但是高级人才依然紧缺，大家看着这句话是不是很熟悉，因为 其他行业的人才也紧缺，那么到了人工智能时代，人工智能时代的高级人才也同样会紧缺！似乎是高级人才的人在其他领域也是高级人才，而不是因为选择了热门才会一帆风顺。
