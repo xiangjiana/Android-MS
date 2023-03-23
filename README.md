@@ -543,7 +543,7 @@
 [视频压缩压缩的是什么信息? 帧内压缩与帧间压缩原理](android/videoencode.md)
 
 [之前有做过直播吗?你们是通过什么方式实现直播的? 直播互动是如何做的](android/live.md)
-
+ 
 [腾讯课堂-直播中 网速比较差的条件下，低延时怎么实现](android/live-optimitor.md)
 
 [腾讯课堂-硬编码与软编码区别，录屏时如何选取硬编与软编](android/mediacodec.md)
